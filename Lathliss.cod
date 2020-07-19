@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wheres Dany</deckname>
+    <comments>Fourth draft
+
+06/27/2020  11:30 EDT</comments>
+    <zone name="main">
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dragon Tempest"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Ruby Medallion"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Spit Flame"/>
+        <card number="1" name="Earthquake"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="1" name="Sarkhan's Unsealing"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep"/>
+        <card number="1" name="Crucible of Fire"/>
+        <card number="1" name="Magmaquake"/>
+        <card number="1" name="Hazoret's Monument"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="Seething Song"/>
+        <card number="1" name="Chandra, Torch of Defiance"/>
+        <card number="1" name="Sarkhan, Fireblood"/>
+        <card number="1" name="Flamekin Village"/>
+        <card number="1" name="Quicksilver Amulet"/>
+        <card number="27" name="Snow-Covered Mountain"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Sarkhan's Triumph"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Crucible of the Spirit Dragon"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Kindred Charge"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Dragonspeaker Shaman"/>
+        <card number="1" name="Dragonlord's Servant"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Balefire Dragon"/>
+        <card number="1" name="Akoum Hellkite"/>
+        <card number="1" name="Demanding Dragon"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Stranglehold"/>
+        <card number="1" name="Valakut, the Molten Pinnacle"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Thunderbreak Regent"/>
+        <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Tyrant's Familiar"/>
+        <card number="1" name="Verix Bladewing"/>
+        <card number="1" name="Thundermaw Hellkite"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Stormbreath Dragon"/>
+        <card number="1" name="Hoard-Smelter Dragon"/>
+        <card number="1" name="Moonveil Dragon"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Dragon Whisperer"/>
+        <card number="1" name="Chandra, Bold Pyromancer"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Konda's Banner"/>
+    </zone>
+</cockatrice_deck>

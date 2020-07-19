@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Orzhov Superfriends</deckname>
+    <comments>first draft
+
+09/30/19  21:23 EDT</comments>
+    <zone name="main">
+        <card number="4" name="Field of Ruin"/>
+        <card number="4" name="Marsh Flats"/>
+        <card number="2" name="Shambling Vent"/>
+        <card number="4" name="Snow-Covered Swamp"/>
+        <card number="3" name="Snow-Covered Plains"/>
+        <card number="4" name="Concealed Courtyard"/>
+        <card number="2" name="Godless Shrine"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="4" name="Liliana of the Veil"/>
+        <card number="1" name="Kaya, Orzhov Usurper"/>
+        <card number="4" name="Dark Confidant"/>
+        <card number="4" name="Tidehollow Sculler"/>
+        <card number="4" name="Oath of Kaya"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="3" name="Thoughtseize"/>
+        <card number="1" name="Mine Excavation"/>
+        <card number="3" name="Inquisition of Kozilek"/>
+        <card number="2" name="Nihil Spellbomb"/>
+        <card number="2" name="Sorin, Solemn Visitor"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="The Elderspell"/>
+        <card number="2" name="Bitterblossom"/>
+        <card number="1" name="Celestial Purge"/>
+        <card number="2" name="Damping Sphere"/>
+        <card number="1" name="Damnation"/>
+        <card number="2" name="Ashiok, Dream Render"/>
+        <card number="2" name="Kambal, Consul of Allocation"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Zealous Persecution"/>
+        <card number="2" name="Stony Silence"/>
+    </zone>
+</cockatrice_deck>

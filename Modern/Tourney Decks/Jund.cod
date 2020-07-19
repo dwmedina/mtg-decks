@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jund</deckname>
+    <comments>by Esther Trujillo
+
+first draft
+
+09/30/19  21:32 EDT</comments>
+    <zone name="main">
+        <card number="2" name="Scavenging Ooze"/>
+        <card number="4" name="Tarmogoyf"/>
+        <card number="1" name="Seasoned Pyromancer"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="4" name="Bloodbraid Elf"/>
+        <card number="3" name="Wrenn and Six"/>
+        <card number="4" name="Liliana of the Veil"/>
+        <card number="2" name="Fatal Push"/>
+        <card number="3" name="Inquisition of Kozilek"/>
+        <card number="3" name="Lightning Bolt"/>
+        <card number="3" name="Thoughtseize"/>
+        <card number="1" name="Abrupt Decay"/>
+        <card number="2" name="Assassin's Trophy"/>
+        <card number="1" name="Collective Brutality"/>
+        <card number="2" name="Kolaghan's Command"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="2" name="Blackcleave Cliffs"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="3" name="Bloodstained Mire"/>
+        <card number="1" name="Blooming Marsh"/>
+        <card number="1" name="Snow-Covered Forest"/>
+        <card number="1" name="Snow-Covered Mountain"/>
+        <card number="2" name="Nurturing Peatland"/>
+        <card number="2" name="Overgrown Tomb"/>
+        <card number="2" name="Raging Ravine"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="2" name="Snow-Covered Swamp"/>
+        <card number="3" name="Verdant Catacombs"/>
+        <card number="2" name="Wooded Foothills"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ancient Grudge"/>
+        <card number="1" name="Collective Brutality"/>
+        <card number="3" name="Collector Ouphe"/>
+        <card number="2" name="Ashiok, Dream Render"/>
+        <card number="3" name="Fulminator Mage"/>
+        <card number="1" name="Kitchen Finks"/>
+        <card number="2" name="Plague Engineer"/>
+        <card number="1" name="Huntmaster of the Fells"/>
+        <card number="1" name="Vraska, Golgari Queen"/>
+    </zone>
+</cockatrice_deck>

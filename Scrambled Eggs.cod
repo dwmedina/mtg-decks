@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Scrambled Eggs</deckname>
+    <comments>9/6/19  2238 EDT
+
+second and a third draft</comments>
+    <zone name="main">
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Archetype of Endurance"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Inspiring Vantage"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Quicksilver Amulet"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Trace of Abundance"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Atla Palani, Nest Tender"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Caravan Vigil"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="6" name="Snow-Covered Forest"/>
+        <card number="7" name="Plains"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Congregation at Dawn"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Test of Endurance"/>
+        <card number="1" name="Felidar Sovereign"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Unflinching Courage"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Pyrohemia"/>
+        <card number="1" name="Gisela, Blade of Goldnight"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Growing Ranks"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Trostani, Selesnya's Voice"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Pelakka Wurm"/>
+        <card number="1" name="Impervious Greatwurm"/>
+        <card number="1" name="Sephara, Sky's Blade"/>
+        <card number="1" name="Firemane Angel"/>
+        <card number="1" name="Gruul Ragebeast"/>
+        <card number="1" name="Balefire Dragon"/>
+        <card number="1" name="Dragonlord Atarka"/>
+        <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Utvara Hellkite"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Molten Primordial"/>
+        <card number="1" name="Fires of Yavimaya"/>
+        <card number="1" name="Gift of Estates"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bogles</deckname>
+    <comments>first draft
+
+9/28/19  22:28  EDT</comments>
+    <zone name="main">
+        <card number="1" name="Dryad Arbor"/>
+        <card number="4" name="Horizon Canopy"/>
+        <card number="4" name="Razorverge Thicket"/>
+        <card number="4" name="Temple Garden"/>
+        <card number="4" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="4" name="Gladecover Scout"/>
+        <card number="3" name="Kor Spiritdancer"/>
+        <card number="4" name="Slippery Bogle"/>
+        <card number="3" name="Path to Exile"/>
+        <card number="4" name="Daybreak Coronet"/>
+        <card number="4" name="Ethereal Armor"/>
+        <card number="4" name="Hyena Umbra"/>
+        <card number="4" name="Rancor"/>
+        <card number="3" name="Spider Umbra"/>
+        <card number="2" name="Spirit Mantle"/>
+        <card number="2" name="Suppression Field"/>
+        <card number="2" name="Unflinching Courage"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="4" name="Leyline of Sanctity"/>
+        <card number="2" name="Nature's Claim"/>
+        <card number="2" name="Rest in Peace"/>
+        <card number="1" name="Seal of Primordium"/>
+        <card number="1" name="Spellskite"/>
+        <card number="2" name="Stony Silence"/>
+        <card number="2" name="Suppression Field"/>
+    </zone>
+</cockatrice_deck>

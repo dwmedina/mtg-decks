@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Modern Elves</deckname>
+    <comments>9/21/19  00:56  EDT
+
+first draft</comments>
+    <zone name="main">
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Elvish Mystic"/>
+        <card number="4" name="Elvish Archdruid"/>
+        <card number="4" name="Elvish Visionary"/>
+        <card number="2" name="Ezuri, Renegade Leader"/>
+        <card number="4" name="Heritage Druid"/>
+        <card number="4" name="Nettle Sentinel"/>
+        <card number="4" name="Collected Company"/>
+        <card number="4" name="Chord of Calling"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="4" name="Nykthos, Shrine to Nyx"/>
+        <card number="4" name="Cavern of Souls"/>
+        <card number="4" name="Windswept Heath"/>
+        <card number="7" name="Forest"/>
+        <card number="3" name="Elvish Champion"/>
+        <card number="3" name="Essence Warden"/>
+    </zone>
+</cockatrice_deck>

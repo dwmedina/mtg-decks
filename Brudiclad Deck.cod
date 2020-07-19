@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Brudiclad Deck</deckname>
+    <comments>Fourth draft
+
+Complete re-work!
+
+07/10/2020  20:56 EDT</comments>
+    <zone name="main">
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Saheeli, the Gifted"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Phyrexian Processor"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Scrabbling Claws"/>
+        <card number="1" name="Retrofitter Foundry"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Mechanized Production"/>
+        <card number="1" name="Storm the Vault"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Fated Infatuation"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Ionize"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Saheeli Rai"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Spawning Bed"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Urza, Lord High Artificer"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="12" name="Snow-Covered Island"/>
+        <card number="12" name="Snow-Covered Mountain"/>
+        <card number="1" name="Ash Zealot"/>
+        <card number="1" name="Eidolon of the Great Revel"/>
+        <card number="1" name="Dragon Whisperer"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Transmute Artifact"/>
+        <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Goblin Wizardry"/>
+        <card number="1" name="Heartfire Immolator"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Jhessian Thief"/>
+        <card number="1" name="Faerie Vandal"/>
+        <card number="1" name="Fathom Seer"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Spellseeker"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Mental Misstep"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Dack Fayden"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Arcane Adaptation"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Haze of Rage"/>
+        <card number="1" name="Keeper of Keys"/>
+    </zone>
+</cockatrice_deck>

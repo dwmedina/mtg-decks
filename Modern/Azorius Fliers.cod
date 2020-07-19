@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius Fliers</deckname>
+    <comments>Second draft
+
+Good Friday  2020  00:36 EDT</comments>
+    <zone name="main">
+        <card number="4" name="Teferi, Time Raveler"/>
+        <card number="3" name="Stoneforge Mystic"/>
+        <card number="4" name="Spellstutter Sprite"/>
+        <card number="4" name="Brazen Borrower"/>
+        <card number="4" name="Snow-Covered Island"/>
+        <card number="4" name="Snow-Covered Plains"/>
+        <card number="4" name="Hallowed Fountain"/>
+        <card number="4" name="Flooded Strand"/>
+        <card number="4" name="Irrigated Farmland"/>
+        <card number="2" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="2" name="Sword of Fire and Ice"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="4" name="Scion of Oona"/>
+        <card number="1" name="Notorious Throng"/>
+        <card number="4" name="Faerie Miscreant"/>
+        <card number="4" name="Force of Negation"/>
+        <card number="2" name="Grafdigger's Cage"/>
+        <card number="2" name="Archmage's Charm"/>
+        <card number="1" name="Demystify"/>
+        <card number="1" name="Path to Exile"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="2" name="Teferi, Hero of Dominaria"/>
+        <card number="2" name="Leyline of Sanctity"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
+        <card number="3" name="Cryptic Command"/>
+        <card number="1" name="Delay"/>
+        <card number="2" name="Rest in Peace"/>
+    </zone>
+</cockatrice_deck>

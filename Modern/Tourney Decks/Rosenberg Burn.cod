@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Rosenberg Burn</deckname>
+    <comments>by Jack Rosenberg
+
+10/14/19  17:08 EDT</comments>
+    <zone name="main">
+        <card number="4" name="Goblin Guide"/>
+        <card number="4" name="Monastery Swiftspear"/>
+        <card number="4" name="Eidolon of the Great Revel"/>
+        <card number="3" name="Mountain"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="2" name="Fiery Islet"/>
+        <card number="4" name="Inspiring Vantage"/>
+        <card number="2" name="Sacred Foundry"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="4" name="Sunbaked Canyon"/>
+        <card number="3" name="Wooded Foothills"/>
+        <card number="4" name="Boros Charm"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Lightning Helix"/>
+        <card number="4" name="Searing Blaze"/>
+        <card number="1" name="Skullcrack"/>
+        <card number="4" name="Lava Spike"/>
+        <card number="4" name="Rift Bolt"/>
+        <card number="3" name="Skewer the Critics"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Kor Firewalker"/>
+        <card number="3" name="Path to Exile"/>
+        <card number="2" name="Searing Blood"/>
+        <card number="3" name="Skullcrack"/>
+        <card number="4" name="Smash to Smithereens"/>
+    </zone>
+</cockatrice_deck>

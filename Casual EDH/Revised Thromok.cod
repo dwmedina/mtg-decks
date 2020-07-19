@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Revised Thromok</deckname>
+    <comments>Fourth draft
+
+Added Deep Forest Hermit.
+
+01/12/2020  20:12 EST
+</comments>
+    <zone name="main">
+        <card number="1" name="Thromok the Insatiable"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Tilonalli's Summoner"/>
+        <card number="1" name="Prowling Serpopard"/>
+        <card number="1" name="Messenger's Speed"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Fresh Meat"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="16" name="Mountain"/>
+        <card number="16" name="Forest"/>
+        <card number="1" name="Khalni Garden"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Growth Spasm"/>
+        <card number="1" name="Hull Breach"/>
+        <card number="1" name="Beacon of Creation"/>
+        <card number="1" name="Chandra's Ignition"/>
+        <card number="1" name="Creeping Renaissance"/>
+        <card number="1" name="Fungal Sprouting"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Ruby Medallion"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Retrofitter Foundry"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Flameshadow Conjuring"/>
+        <card number="1" name="Fervor"/>
+        <card number="1" name="Goblin War Drums"/>
+        <card number="1" name="Krenko's Command"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Rakka Mar"/>
+        <card number="1" name="Battle Hymn"/>
+        <card number="1" name="Grumgully, the Generous"/>
+        <card number="1" name="Soul Foundry"/>
+        <card number="1" name="Ferocity of the Wilds"/>
+        <card number="1" name="Cryptolith Rite"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Archetype of Aggression"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Nissa, Voice of Zendikar"/>
+        <card number="1" name="Xenagos, the Reveler"/>
+        <card number="1" name="Hordeling Outburst"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Mogg War Marshal"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Dragonlair Spider"/>
+        <card number="1" name="Empty the Warrens"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Sprout Swarm"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" name="Bloodspore Thrinax"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Sylvan Offering"/>
+        <card number="1" name="Freyalise, Llanowar's Fury"/>
+        <card number="1" name="Deep Forest Hermit"/>
+    </zone>
+</cockatrice_deck>

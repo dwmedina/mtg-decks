@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ezuri</deckname>
+    <comments>Gift deck for Andrew
+
+First draft
+Final cost:  $49.60
+
+02/15/2020  23:19  EST</comments>
+    <zone name="main">
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="31" name="Forest"/>
+        <card number="1" name="Havenwood Battleground"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Desert of the Indomitable"/>
+        <card number="1" name="Hickory Woodlot"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Familiar Ground"/>
+        <card number="1" name="Sixth Sense"/>
+        <card number="1" name="Keen Sense"/>
+        <card number="1" name="Overwhelming Instinct"/>
+        <card number="1" name="Season of Growth"/>
+        <card number="1" name="Setessan Training"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Bonds of Mortality"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Elvish Reclaimer"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Copperhorn Scout"/>
+        <card number="1" name="Elvish Herder"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Twinblade Slasher"/>
+        <card number="1" name="Wildwood Tracker"/>
+        <card number="1" name="Winnower Patrol"/>
+        <card number="1" name="Ivy Lane Denizen"/>
+        <card number="1" name="Bramblewood Paragon"/>
+        <card number="1" name="Narnam Renegade"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Joraga Warcaller"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Wildborn Preserver"/>
+        <card number="1" name="Plummet"/>
+        <card number="1" name="Outmuscle"/>
+        <card number="1" name="Rosethorn Halberd"/>
+        <card number="1" name="Syr Faren, the Hengehammer"/>
+        <card number="1" name="Renata, Called to the Hunt"/>
+        <card number="1" name="Omen of the Hunt"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="The First Iroan Games"/>
+        <card number="1" name="Hydra's Growth"/>
+        <card number="1" name="Mantle of Webs"/>
+        <card number="1" name="Downdraft"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Nylea's Colossus"/>
+        <card number="1" name="Crosswinds"/>
+        <card number="1" name="Weatherseed Totem"/>
+        <card number="1" name="Moss Diamond"/>
+        <card number="1" name="Horn of Ramos"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Pulse of Murasa"/>
+        <card number="1" name="Might of the Masses"/>
+        <card number="1" name="Thornado"/>
+        <card number="1" name="Courage in Crisis"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Cached Defenses"/>
+        <card number="1" name="Creeping Mold"/>
+        <card number="1" name="Natural End"/>
+        <card number="1" name="Tower Defense"/>
+        <card number="1" name="Woodcutter's Grit"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Fog"/>
+    </zone>
+</cockatrice_deck>

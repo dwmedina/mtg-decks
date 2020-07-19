@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Karn</deckname>
+    <comments>Third draft
+
+06/18/2020  21:45 EDT</comments>
+    <zone name="main">
+        <card number="1" name="Karn, Silver Golem"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Mikokoro, Center of the Sea"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Karn, the Great Creator"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Tomb of the Spirit Dragon"/>
+        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Blinkmoth Urn"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Blasted Landscape"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Corrupted Crossroads"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Crystal Vein"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Cloud Key"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Clock of Omens"/>
+        <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Sculpting Steel"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Chief of the Foundry"/>
+        <card number="1" name="Scour from Existence"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Phyrexian Revoker"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Metalwork Colossus"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Steel Overseer"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Welding Jar"/>
+        <card number="1" name="Ghostfire Blade"/>
+        <card number="1" name="Metalworker"/>
+        <card number="1" name="Void Winnower"/>
+        <card number="5" name="Wastes"/>
+        <card number="1" name="Mishra's Self-Replicator"/>
+        <card number="1" name="Reality Smasher"/>
+        <card number="1" name="Scarecrone"/>
+        <card number="1" name="Thought-Knot Seer"/>
+        <card number="1" name="Mycosynth Golem"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="1" name="Grafted Exoskeleton"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Quietus Spike"/>
+        <card number="1" name="Scytheclaw"/>
+        <card number="1" name="Slagwurm Armor"/>
+        <card number="1" name="Ensnaring Bridge"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Semblance Anvil"/>
+        <card number="1" name="Geth's Grimoire"/>
+        <card number="1" name="Phyrexian Processor"/>
+        <card number="1" name="Gingerbrute"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="All Is Dust"/>
+    </zone>
+</cockatrice_deck>

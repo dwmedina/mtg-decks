@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Robots</deckname>
+    <comments>Legal Robots
+
+first draft
+
+04/11/2020</comments>
+    <zone name="main">
+        <card number="4" name="Etched Champion"/>
+        <card number="3" name="Steel Overseer"/>
+        <card number="4" name="Ornithopter"/>
+        <card number="4" name="Darksteel Citadel"/>
+        <card number="4" name="Blinkmoth Nexus"/>
+        <card number="4" name="Cranial Plating"/>
+        <card number="3" name="Springleaf Drum"/>
+        <card number="4" name="Vault Skirge"/>
+        <card number="4" name="Signal Pest"/>
+        <card number="2" name="Arcbound Ravager"/>
+        <card number="2" name="Darksteel Ingot"/>
+        <card number="2" name="Glimmervoid"/>
+        <card number="6" name="Snow-Covered Plains"/>
+        <card number="4" name="Gateway Plaza"/>
+        <card number="4" name="Dispatch"/>
+        <card number="4" name="Galvanic Blast"/>
+        <card number="2" name="Thoughtcast"/>
+    </zone>
+</cockatrice_deck>

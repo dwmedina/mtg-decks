@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sisay</deckname>
+    <comments>first draft
+
+06/28/2020  15:07 EDT</comments>
+    <zone name="main">
+        <card number="1" name="Sisay, Weatherlight Captain"/>
+        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
+        <card number="1" name="Jace, Vryn's Prodigy"/>
+        <card number="1" name="Kinnan, Bonder Prodigy"/>
+        <card number="1" name="Saffi Eriksdotter"/>
+        <card number="1" name="Skullbriar, the Walking Grave"/>
+        <card number="1" name="Sygg, River Cutthroat"/>
+        <card number="1" name="Athreos, God of Passage"/>
+        <card number="1" name="Feldon of the Third Path"/>
+        <card number="1" name="Kambal, Consul of Allocation"/>
+        <card number="1" name="Kethis, the Hidden Hand"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Meren of Clan Nel Toth"/>
+        <card number="1" name="Saskia the Unyielding"/>
+        <card number="1" name="O-Kagachi, Vengeful Kami"/>
+        <card number="1" name="Yidris, Maelstrom Wielder"/>
+        <card number="1" name="Arvad the Cursed"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Muldrotha, the Gravetide"/>
+        <card number="1" name="Jhoira of the Ghitu"/>
+        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="1" name="Hanna, Ship's Navigator"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Prismatic Omen"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Traveler's Amulet"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Chromatic Orrery"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Xenagos, God of Revels"/>
+        <card number="1" name="Grumgully, the Generous"/>
+        <card number="1" name="Gateway Plaza"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="5" name="Snow-Covered Plains"/>
+        <card number="4" name="Snow-Covered Swamp"/>
+        <card number="3" name="Snow-Covered Island"/>
+        <card number="5" name="Snow-Covered Forest"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Renegade Map"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="2" name="Snow-Covered Mountain"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Stranglehold"/>
+        <card number="1" name="Bow of Nylea"/>
+        <card number="1" name="Day of Destiny"/>
+        <card number="1" name="Genju of the Realm"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Marit Lage's Slumber"/>
+        <card number="1" name="Oath of Kaya"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Oko, Thief of Crowns"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Teferi, Time Raveler"/>
+        <card number="1" name="Teferi, Master of Time"/>
+        <card number="1" name="Vivien, Arkbow Ranger"/>
+        <card number="1" name="Nexus of Fate"/>
+        <card number="1" name="Angel's Grace"/>
+        <card number="1" name="Echo of Eons"/>
+    </zone>
+</cockatrice_deck>

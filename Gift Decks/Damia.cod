@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Damia</deckname>
+    <comments>Gift deck with increased budget of 75
+
+First draft
+
+12/25/2019  22:38 EST</comments>
+    <zone name="main">
+        <card number="1" name="Damia, Sage of Stone"/>
+        <card number="11" name="Island"/>
+        <card number="10" name="Swamp"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Detection Tower"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Restore"/>
+        <card number="1" name="Splendid Reclamation"/>
+        <card number="1" name="Rethink"/>
+        <card number="1" name="Mental Misstep"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Shardless Agent"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Melira, Sylvok Outcast"/>
+        <card number="1" name="Frozen Aether"/>
+        <card number="1" name="Kydele, Chosen of Kruphix"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Whelming Wave"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Finale of Revelation"/>
+        <card number="1" name="Cavalier of Thorns"/>
+        <card number="1" name="Sire of Stagnation"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Vona's Hunger"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Plague Wind"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wanderer's Twig"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Renegade Map"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Rotting Regisaur"/>
+        <card number="1" name="Clackbridge Troll"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Grave Betrayal"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Tomb Hex"/>
+        <card number="1" name="Tragic Slip"/>
+        <card number="1" name="Soul Stair Expedition"/>
+        <card number="1" name="Merfolk Skydiver"/>
+        <card number="1" name="Steady Progress"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Inertia Bubble"/>
+        <card number="1" name="Charmed Sleep"/>
+        <card number="1" name="Exhaustion"/>
+        <card number="1" name="Krosan Tusker"/>
+        <card number="1" name="Desolation Twin"/>
+        <card number="1" name="Kalonian Behemoth"/>
+        <card number="1" name="Aggressive Mammoth"/>
+    </zone>
+</cockatrice_deck>

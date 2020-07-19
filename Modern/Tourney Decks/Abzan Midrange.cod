@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Abzan Midrange</deckname>
+    <comments>first draft
+
+9/28/19  22:39  EDT</comments>
+    <zone name="main">
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="4" name="Marsh Flats"/>
+        <card number="2" name="Overgrown Tomb"/>
+        <card number="3" name="Shambling Vent"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="2" name="Twilight Mire"/>
+        <card number="1" name="Forest"/>
+        <card number="4" name="Verdant Catacombs"/>
+        <card number="2" name="Windswept Heath"/>
+        <card number="1" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="3" name="Grim Flayer"/>
+        <card number="3" name="Scavenging Ooze"/>
+        <card number="4" name="Tarmogoyf"/>
+        <card number="2" name="Tasigur, the Golden Fang"/>
+        <card number="3" name="Abrupt Decay"/>
+        <card number="1" name="Collective Brutality"/>
+        <card number="3" name="Inquisition of Kozilek"/>
+        <card number="4" name="Lingering Souls"/>
+        <card number="1" name="Maelstrom Pulse"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="3" name="Thoughtseize"/>
+        <card number="1" name="Gideon, Ally of Zendikar"/>
+        <card number="3" name="Liliana of the Veil"/>
+        <card number="1" name="Sorin, Solemn Visitor"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Collective Brutality"/>
+        <card number="2" name="Choice of Damnations"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Engineered Explosives"/>
+        <card number="3" name="Fulminator Mage"/>
+        <card number="2" name="Grafdigger's Cage"/>
+        <card number="2" name="Stony Silence"/>
+        <card number="1" name="Zealous Persecution"/>
+        <card number="2" name="Surgical Extraction"/>
+    </zone>
+</cockatrice_deck>

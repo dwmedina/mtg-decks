@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono Red Burn</deckname>
+    <comments>9/28/19  23:38 EDT
+
+fourth draft</comments>
+    <zone name="main">
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Lava Spike"/>
+        <card number="4" name="Rift Bolt"/>
+        <card number="1" name="Blood Moon"/>
+        <card number="4" name="Hellspark Elemental"/>
+        <card number="4" name="Vexing Devil"/>
+        <card number="4" name="Lightning Strike"/>
+        <card number="4" name="Magma Jet"/>
+        <card number="20" name="Snow-Covered Mountain"/>
+        <card number="4" name="Goblin Guide"/>
+        <card number="4" name="Keldon Marauders"/>
+        <card number="3" name="Skullcrack"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Skullcrack"/>
+        <card number="4" name="Exquisite Firecraft"/>
+        <card number="2" name="Leyline of Punishment"/>
+        <card number="3" name="Smash to Smithereens"/>
+        <card number="3" name="Incinerate"/>
+        <card number="2" name="Searing Blaze"/>
+    </zone>
+</cockatrice_deck>

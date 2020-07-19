@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-Red Aggro</deckname>
+    <comments>by jbtwist
+
+First draft
+
+04/11/2020  00:22 EDT</comments>
+    <zone name="main">
+        <card number="2" name="Castle Embereth"/>
+        <card number="15" name="Mountain"/>
+        <card number="2" name="Mutavault"/>
+        <card number="4" name="Ramunap Ruins"/>
+        <card number="2" name="Embercleave"/>
+        <card number="4" name="Wild Slash"/>
+        <card number="4" name="Lightning Strike"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="2" name="Rampaging Ferocidon"/>
+        <card number="4" name="Goblin Rabblemaster"/>
+        <card number="4" name="Bonecrusher Giant"/>
+        <card number="2" name="Kari Zev, Skyship Raider"/>
+        <card number="4" name="Eidolon of the Great Revel"/>
+        <card number="2" name="Zurgo Bellstriker"/>
+        <card number="4" name="Soul-Scar Mage"/>
+        <card number="4" name="Monastery Swiftspear"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Rending Volley"/>
+        <card number="2" name="Abrade"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="2" name="Collective Defiance"/>
+        <card number="2" name="Goblin Chainwhirler"/>
+        <card number="2" name="Kari Zev's Expertise"/>
+        <card number="2" name="Rampaging Ferocidon"/>
+    </zone>
+</cockatrice_deck>
