@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Titania</deckname>
-    <comments>third draft
-
-06/20/2020  00:07 EDT</comments>
+    <comments></comments>
     <zone name="main">
         <card number="1" name="Titania, Protector of Argoth"/>
-        <card number="1" name="Dryad of the Ilysian Grove"/>
         <card number="1" name="Rites of Flourishing"/>
-        <card number="1" name="Wayward Swordtooth"/>
-        <card number="1" name="Journey of Discovery"/>
         <card number="1" name="Exploration"/>
-        <card number="37" name="Snow-Covered Forest"/>
+        <card number="32" name="Snow-Covered Forest"/>
         <card number="1" name="Crucible of Worlds"/>
         <card number="1" name="Jolrael, Empress of Beasts"/>
         <card number="1" name="Enter the Unknown"/>
@@ -35,19 +30,10 @@
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Kamahl, Fist of Krosa"/>
         <card number="1" name="Arbor Elf"/>
-        <card number="1" name="Boreal Druid"/>
-        <card number="1" name="Diligent Farmhand"/>
-        <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Groundskeeper"/>
-        <card number="1" name="Humble Naturalist"/>
         <card number="1" name="Leafkin Druid"/>
-        <card number="1" name="Leyline of Abundance"/>
         <card number="1" name="Genesis Wave"/>
-        <card number="1" name="Full Flowering"/>
         <card number="1" name="Chorus of Might"/>
-        <card number="1" name="Might of the Masses"/>
-        <card number="1" name="The Crowd Goes Wild"/>
         <card number="1" name="Questing Beast"/>
         <card number="1" name="Natural Affinity"/>
         <card number="1" name="Nissa, Vastwood Seer"/>
@@ -69,5 +55,22 @@
         <card number="1" name="Overlaid Terrain"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Sylvan Safekeeper"/>
+        <card number="1" name="Sustenance"/>
+        <card number="1" name="Renewal"/>
+        <card number="1" name="Scythe Tiger"/>
+        <card number="1" name="Squirrel Wrangler"/>
+        <card number="1" name="Spitting Spider"/>
+        <card number="1" name="Arcane Spyglass"/>
+        <card number="1" name="Dust Bowl"/>
+        <card number="1" name="World Breaker"/>
+        <card number="1" name="Centaur Chieftain"/>
+        <card number="1" name="Elemental Uprising"/>
+        <card number="1" name="Embodiment of Insight"/>
+        <card number="1" name="Gaea's Revenge"/>
+        <card number="1" name="Hall of the Bandit Lord"/>
+        <card number="1" name="Hunting Wilds"/>
+        <card number="1" name="Nissa, Vital Force"/>
+        <card number="1" name="Shifting Ceratops"/>
     </zone>
 </cockatrice_deck>
