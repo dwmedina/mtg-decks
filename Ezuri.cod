@@ -17,12 +17,9 @@
         <card number="1" name="Detection Tower"/>
         <card number="1" name="Karn's Bastion"/>
         <card number="1" name="Rishadan Port"/>
-        <card number="1" name="Pelt Collector"/>
         <card number="1" name="Elvish Clancaller"/>
         <card number="1" name="Wildwood Tracker"/>
-        <card number="1" name="Ezuri's Archers"/>
         <card number="1" name="Skyway Sniper"/>
-        <card number="1" name="Elvish Vanguard"/>
         <card number="1" name="Wellwisher"/>
         <card number="1" name="Essence Warden"/>
         <card number="1" name="Priest of Titania"/>
@@ -31,54 +28,57 @@
         <card number="1" name="Tajuru Preserver"/>
         <card number="1" name="Wildborn Preserver"/>
         <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
-        <card number="1" name="Norwood Archers"/>
-        <card number="1" name="Lys Alana Bowmaster"/>
         <card number="1" name="Allosaurus Shepherd"/>
-        <card number="1" name="Elvish Promenade"/>
-        <card number="1" name="Steel Leaf Champion"/>
-        <card number="1" name="Immaculate Magistrate"/>
         <card number="1" name="Elvish Archdruid"/>
-        <card number="1" name="Drove of Elves"/>
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Elvish Scrapper"/>
         <card number="1" name="Twinblade Slasher"/>
         <card number="1" name="Track Down"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Adventurous Impulse"/>
-        <card number="1" name="Road of Return"/>
         <card number="1" name="Regrowth"/>
-        <card number="1" name="Far Wanderings"/>
         <card number="1" name="Nature's Way"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Khalni Heart Expedition"/>
         <card number="1" name="Migration Path"/>
         <card number="1" name="Harvest Season"/>
-        <card number="1" name="Plummet"/>
-        <card number="1" name="Lifecrafter's Gift"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
-        <card number="1" name="Arbor Armament"/>
-        <card number="1" name="Ranger's Guile"/>
-        <card number="1" name="Sudden Spinnerets"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Barrier Breach"/>
         <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Crossbow Ambush"/>
-        <card number="1" name="Repopulate"/>
-        <card number="1" name="Vitalize"/>
-        <card number="1" name="Moment's Peace"/>
-        <card number="1" name="Fog"/>
         <card number="1" name="Primal Bellow"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Chariot of Victory"/>
-        <card number="1" name="Explorer's Scope"/>
-        <card number="1" name="Stoneforge Masterwork"/>
-        <card number="1" name="Rosethorn Halberd"/>
         <card number="1" name="Colossus Hammer"/>
         <card number="1" name="Tranquil Grove"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Nettle Sentinel"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Ivy Lane Denizen"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Pillar of Origins"/>
+        <card number="1" name="Nylea, God of the Hunt"/>
+        <card number="1" name="Primalcrux"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Loaming Shaman"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Mortal's Resolve"/>
+        <card number="1" name="Withstand Death"/>
+        <card number="1" name="Blessings of Nature"/>
+        <card number="1" name="Stony Strength"/>
+        <card number="1" name="Cultivate"/>
     </zone>
 </cockatrice_deck>
