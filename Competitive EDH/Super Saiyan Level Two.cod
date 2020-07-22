@@ -1,58 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Super Saiyan Level Two</deckname>
-    <comments>fourth draft
-
-8/18/19  23:30 EDT</comments>
+    <comments></comments>
     <zone name="main">
         <card number="1" name="Najeela, the Blade-Blossom"/>
-        <card number="1" name="Unclaimed Territory"/>
-        <card number="1" name="Path of Ancestry"/>
-        <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="City of Brass"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Overgrown Tomb"/>
-        <card number="1" name="Stomping Ground"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Watery Grave"/>
-        <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Steam Vents"/>
-        <card number="1" name="Hallowed Fountain"/>
-        <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Mystic Monastery"/>
-        <card number="1" name="Opulent Palace"/>
-        <card number="1" name="Reflecting Pool"/>
-        <card number="1" name="Mana Confluence"/>
-        <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Noble Hierarch"/>
-        <card number="1" name="Burnished Hart"/>
-        <card number="1" name="Champion of Lambholt"/>
-        <card number="1" name="Brutal Hordechief"/>
-        <card number="1" name="Jedit Ojanen of Efrava"/>
         <card number="1" name="Mirri, Weatherlight Duelist"/>
         <card number="1" name="Shanna, Sisay's Legacy"/>
         <card number="1" name="Combat Celebrant"/>
-        <card number="1" name="Jazal Goldmane"/>
-        <card number="1" name="Iroas, God of Victory"/>
-        <card number="1" name="Boldwyr Intimidator"/>
         <card number="1" name="Pelt Collector"/>
         <card number="1" name="Rubblebelt Raiders"/>
-        <card number="1" name="Aurelia, the Warleader"/>
-        <card number="1" name="Neheb, the Eternal"/>
-        <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Butcher of Malakir"/>
-        <card number="1" name="Stonehoof Chieftain"/>
         <card number="1" name="Grand Warlord Radha"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Chromatic Lantern"/>
-        <card number="1" name="Vanquisher's Banner"/>
-        <card number="1" name="Throne of the God-Pharaoh"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Herald's Horn"/>
-        <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Druids' Repository"/>
-        <card number="1" name="Song of Freyalise"/>
         <card number="1" name="Abundant Growth"/>
         <card number="1" name="Aggravated Assault"/>
         <card number="1" name="Aura Shards"/>
@@ -61,36 +24,64 @@
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Assassin's Trophy"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Go for the Throat"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Kindred Dominance"/>
-        <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Seize the Day"/>
-        <card number="1" name="Hellkite Charger"/>
-        <card number="1" name="Herald of War"/>
-        <card number="1" name="Archangel of Tithes"/>
         <card number="1" name="Relentless Assault"/>
-        <card number="1" name="Gleam of Battle"/>
-        <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Tajic, Legion's Edge"/>
         <card number="1" name="Cryptolith Rite"/>
-        <card number="1" name="Descendants' Path"/>
-        <card number="1" name="Helm of the Host"/>
-        <card number="1" name="Seaside Citadel"/>
-        <card number="1" name="Crumbling Necropolis"/>
-        <card number="1" name="Glacial Fortress"/>
-        <card number="6" name="Forest"/>
-        <card number="4" name="Mountain"/>
-        <card number="4" name="Plains"/>
-        <card number="3" name="Swamp"/>
-        <card number="1" name="Dragonscale General"/>
-        <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Coldsteel Heart"/>
         <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="5" name="Snow-Covered Forest"/>
+        <card number="5" name="Snow-Covered Island"/>
+        <card number="6" name="Snow-Covered Mountain"/>
+        <card number="5" name="Snow-Covered Plains"/>
+        <card number="4" name="Snow-Covered Swamp"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Elvish Reclaimer"/>
+        <card number="1" name="Lazotep Plating"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Earthcraft"/>
+        <card number="1" name="Chief of the Edge"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Carpet of Flowers"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Alesha, Who Smiles at Death"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Gruul Spellbreaker"/>
+        <card number="1" name="Neyith of the Dire Hunt"/>
+        <card number="1" name="Ancient Ziggurat"/>
+        <card number="1" name="Chromatic Orrery"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Gutterbones"/>
+        <card number="1" name="Surrak Dragonclaw"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nylea, God of the Hunt"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Ground Seal"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" name="Rhonas the Indomitable"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Galvanic Blast"/>
     </zone>
 </cockatrice_deck>
