@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Judith</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Judith, the Scourge Diva"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Blackcleave Cliffs"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Lavaclaw Reaches"/>
+        <card number="12" name="Snow-Covered Mountain"/>
+        <card number="12" name="Snow-Covered Swamp"/>
+        <card number="1" name="Westvale Abbey"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Scour from Existence"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Sneak Attack"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Cauldron Familiar"/>
+        <card number="1" name="Witch's Oven"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Mikaeus, the Unhallowed"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Harsh Mentor"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Liliana, Waker of the Dead"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Squee, the Immortal"/>
+        <card number="1" name="Bake into a Pie"/>
+        <card number="1" name="Foreboding Fruit"/>
+        <card number="1" name="Giant's Skewer"/>
+        <card number="1" name="Taste of Death"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Grave Pact"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Vona's Hunger"/>
+        <card number="1" name="Golden Egg"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Chandra, Acolyte of Flame"/>
+        <card number="1" name="Mogis, God of Slaughter"/>
+        <card number="1" name="Innocent Blood"/>
+        <card number="1" name="Battle Hymn"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Dark Impostor"/>
+        <card number="1" name="Dreadhorde Butcher"/>
+        <card number="1" name="Sudden Spoiling"/>
+        <card number="1" name="Demon of Death's Gate"/>
+    </zone>
+</cockatrice_deck>

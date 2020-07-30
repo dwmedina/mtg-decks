@@ -57,7 +57,6 @@
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Sylvan Safekeeper"/>
         <card number="1" name="Sustenance"/>
-        <card number="1" name="Renewal"/>
         <card number="1" name="Scythe Tiger"/>
         <card number="1" name="Squirrel Wrangler"/>
         <card number="1" name="Spitting Spider"/>
@@ -71,6 +70,7 @@
         <card number="1" name="Hall of the Bandit Lord"/>
         <card number="1" name="Hunting Wilds"/>
         <card number="1" name="Nissa, Vital Force"/>
-        <card number="1" name="Shifting Ceratops"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Wilderness Reclamation"/>
     </zone>
 </cockatrice_deck>
