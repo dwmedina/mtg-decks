@@ -48,7 +48,6 @@
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Beseech the Queen"/>
-        <card number="1" name="Damnation"/>
         <card number="1" name="Vampiric Tutor"/>
         <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Toxic Deluge"/>
@@ -58,5 +57,23 @@
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Ayara, First of Locthwain"/>
         <card number="1" name="Dread Shade"/>
+        <card number="1" name="Dunerider Outlaw"/>
+        <card number="1" name="Hand of Cruelty"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Embodiment of Agonies"/>
+        <card number="1" name="Archfiend of Despair"/>
+        <card number="1" name="Dread Presence"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Dark Deal"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Foreboding Fruit"/>
+        <card number="1" name="Necropotence"/>
+        <card number="1" name="Cast Down"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Final Death"/>
+        <card number="1" name="Damnation"/>
     </zone>
 </cockatrice_deck>
