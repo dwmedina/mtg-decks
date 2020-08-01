@@ -72,13 +72,13 @@
         <card number="1" name="Arcanis the Omnipotent"/>
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Temporal Manipulation"/>
-        <card number="1" name="Merchant Scroll"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Predict"/>
-        <card number="1" name="Plagiarize"/>
         <card number="1" name="Stream of Unconsciousness"/>
         <card number="1" name="Leadership Vacuum"/>
         <card number="1" name="Turn into a Pumpkin"/>
         <card number="1" name="Disperse"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="River's Rebuke"/>
     </zone>
 </cockatrice_deck>
