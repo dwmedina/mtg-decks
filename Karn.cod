@@ -10,8 +10,6 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Mikokoro, Center of the Sea"/>
         <card number="1" name="Inventors' Fair"/>
-        <card number="1" name="Ghost Quarter"/>
-        <card number="1" name="Ancient Tomb"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Maze of Ith"/>
         <card number="1" name="Karn, the Great Creator"/>
@@ -21,19 +19,13 @@
         <card number="1" name="Ugin, the Ineffable"/>
         <card number="1" name="Unwinding Clock"/>
         <card number="1" name="Thran Dynamo"/>
-        <card number="1" name="Emergence Zone"/>
-        <card number="1" name="Blasted Landscape"/>
         <card number="1" name="Blast Zone"/>
         <card number="1" name="Buried Ruin"/>
-        <card number="1" name="Corrupted Crossroads"/>
         <card number="1" name="Darksteel Citadel"/>
-        <card number="1" name="Crystal Vein"/>
-        <card number="1" name="Strip Mine"/>
         <card number="1" name="Homeward Path"/>
         <card number="1" name="Cloud Key"/>
         <card number="1" name="Darksteel Forge"/>
         <card number="1" name="Clock of Omens"/>
-        <card number="1" name="Akroma's Memorial"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Gilded Lotus"/>
@@ -69,7 +61,7 @@
         <card number="1" name="Welding Jar"/>
         <card number="1" name="Metalworker"/>
         <card number="1" name="Void Winnower"/>
-        <card number="4" name="Wastes"/>
+        <card number="12" name="Wastes"/>
         <card number="1" name="Mishra's Self-Replicator"/>
         <card number="1" name="Reality Smasher"/>
         <card number="1" name="Thought-Knot Seer"/>
@@ -82,7 +74,6 @@
         <card number="1" name="Quietus Spike"/>
         <card number="1" name="Krark-Clan Ironworks"/>
         <card number="1" name="Semblance Anvil"/>
-        <card number="1" name="Phyrexian Processor"/>
         <card number="1" name="Gingerbrute"/>
         <card number="1" name="Ornithopter"/>
         <card number="1" name="All Is Dust"/>
@@ -100,5 +91,6 @@
         <card number="1" name="Mouth of Ronom"/>
         <card number="1" name="Scrying Sheets"/>
         <card number="1" name="Arcum's Astrolabe"/>
+        <card number="1" name="Arcum's Weathervane"/>
     </zone>
 </cockatrice_deck>
