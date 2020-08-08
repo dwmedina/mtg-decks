@@ -8,7 +8,6 @@
         <card number="1" name="Disperse"/>
         <card number="1" name="Pride of the Clouds"/>
         <card number="1" name="Sky Spirit"/>
-        <card number="1" name="Serra Sphinx"/>
         <card number="1" name="Warden of Evos Isle"/>
         <card number="1" name="Steel-Plume Marshal"/>
         <card number="1" name="Baneslayer Angel"/>
@@ -22,7 +21,6 @@
         <card number="1" name="Flame Sweep"/>
         <card number="1" name="Flamebreak"/>
         <card number="1" name="Lightning Phoenix"/>
-        <card number="1" name="Aurelia, Exemplar of Justice"/>
         <card number="1" name="Aurelia, the Warleader"/>
         <card number="1" name="Skycat Sovereign"/>
         <card number="1" name="Watcher of the Spheres"/>
@@ -57,7 +55,6 @@
         <card number="1" name="Unleash Fury"/>
         <card number="1" name="Rain of Revelation"/>
         <card number="1" name="Basri's Solidarity"/>
-        <card number="1" name="Feather, the Redeemed"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Boros Signet"/>
@@ -73,5 +70,8 @@
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Clear the Mind"/>
+        <card number="1" name="Feather, the Redeemed"/>
+        <card number="1" name="Akim, the Soaring Wind"/>
+        <card number="1" name="Path to Exile"/>
     </zone>
 </cockatrice_deck>
