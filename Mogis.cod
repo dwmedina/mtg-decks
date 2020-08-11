@@ -24,9 +24,7 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Fiery Emancipation"/>
-        <card number="1" name="Torbran, Thane of Red Fell"/>
         <card number="1" name="Ankh of Mishra"/>
-        <card number="1" name="Zo-Zu the Punisher"/>
         <card number="1" name="Kroxa, Titan of Death's Hunger"/>
         <card number="1" name="Vial Smasher the Fierce"/>
         <card number="1" name="Heartless Act"/>
@@ -43,45 +41,47 @@
         <card number="1" name="Tragic Slip"/>
         <card number="1" name="Black Sun's Zenith"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Blood Moon"/>
         <card number="1" name="Pyrohemia"/>
-        <card number="1" name="Seismic Assault"/>
         <card number="1" name="Tectonic Reformation"/>
-        <card number="1" name="Brallin, Skyshark Rider"/>
-        <card number="1" name="Faithless Looting"/>
         <card number="1" name="Strip Mine"/>
         <card number="1" name="Spiteful Prankster"/>
-        <card number="1" name="Simian Spirit Guide"/>
         <card number="1" name="Chandra, Torch of Defiance"/>
         <card number="1" name="Liliana, Waker of the Dead"/>
-        <card number="1" name="Chrome Mox"/>
         <card number="1" name="Leyline of the Void"/>
         <card number="1" name="Terror of the Peaks"/>
         <card number="1" name="Megrim"/>
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Vicious Rumors"/>
-        <card number="1" name="Curse of Opulence"/>
         <card number="1" name="Gonti's Machinations"/>
         <card number="1" name="Bloodchief Ascension"/>
         <card number="1" name="Tormod's Crypt"/>
         <card number="1" name="Soul-Guide Lantern"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Yarok's Fenlurker"/>
-        <card number="1" name="Grim Guardian"/>
         <card number="1" name="Ensnaring Bridge"/>
-        <card number="1" name="Hazoret the Fervent"/>
         <card number="1" name="Tainted Remedy"/>
         <card number="1" name="Damnation"/>
-        <card number="1" name="Gibbering Descent"/>
         <card number="1" name="Loyal Subordinate"/>
-        <card number="1" name="Storm Caller"/>
-        <card number="1" name="Fetid Imp"/>
-        <card number="1" name="Curse of Disturbance"/>
         <card number="1" name="Vito, Thorn of the Dusk Rose"/>
-        <card number="1" name="Bloodthirsty Aerialist"/>
         <card number="1" name="Twilight Prophet"/>
         <card number="1" name="Dreadhorde Butcher"/>
+        <card number="1" name="Magus of the Abyss"/>
+        <card number="1" name="Magus of the Moon"/>
+        <card number="1" name="Tinybones, Trinket Thief"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Copper Tablet"/>
+        <card number="1" name="Misers' Cage"/>
+        <card number="1" name="Spiteful Visions"/>
+        <card number="1" name="Spellshock"/>
+        <card number="1" name="No Mercy"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Psychogenic Probe"/>
+        <card number="1" name="Havoc Festival"/>
     </zone>
 </cockatrice_deck>
