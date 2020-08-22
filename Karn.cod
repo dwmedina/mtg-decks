@@ -3,7 +3,6 @@
     <deckname>Karn</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Karn, Silver Golem"/>
         <card number="1" name="Urza's Power Plant"/>
         <card number="1" name="Urza's Tower"/>
         <card number="1" name="Urza's Mine"/>
@@ -12,85 +11,85 @@
         <card number="1" name="Inventors' Fair"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Karn, the Great Creator"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Tomb of the Spirit Dragon"/>
-        <card number="1" name="Karn, Scion of Urza"/>
-        <card number="1" name="Ugin, the Ineffable"/>
-        <card number="1" name="Unwinding Clock"/>
-        <card number="1" name="Thran Dynamo"/>
         <card number="1" name="Blast Zone"/>
         <card number="1" name="Buried Ruin"/>
         <card number="1" name="Darksteel Citadel"/>
         <card number="1" name="Homeward Path"/>
-        <card number="1" name="Cloud Key"/>
-        <card number="1" name="Darksteel Forge"/>
-        <card number="1" name="Clock of Omens"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Gilded Lotus"/>
-        <card number="1" name="Sculpting Steel"/>
-        <card number="1" name="Sensei's Divining Top"/>
-        <card number="1" name="Staff of Domination"/>
-        <card number="1" name="Manifold Key"/>
-        <card number="1" name="Shimmer Myr"/>
-        <card number="1" name="Palladium Myr"/>
-        <card number="1" name="Myr Retriever"/>
-        <card number="1" name="Jhoira's Familiar"/>
-        <card number="1" name="Blightsteel Colossus"/>
-        <card number="1" name="Mystic Forge"/>
-        <card number="1" name="Stonecoil Serpent"/>
-        <card number="1" name="Foundry Inspector"/>
-        <card number="1" name="Chief of the Foundry"/>
         <card number="1" name="Scour from Existence"/>
-        <card number="1" name="Platinum Angel"/>
-        <card number="1" name="Phyrexian Revoker"/>
-        <card number="1" name="Mox Opal"/>
-        <card number="1" name="Helm of the Host"/>
-        <card number="1" name="Hammer of Nazahn"/>
-        <card number="1" name="Metalwork Colossus"/>
-        <card number="1" name="Silent Arbiter"/>
-        <card number="1" name="Adaptive Automaton"/>
-        <card number="1" name="Metallic Mimic"/>
-        <card number="1" name="Steel Overseer"/>
-        <card number="1" name="Sword of Truth and Justice"/>
-        <card number="1" name="Champion's Helm"/>
-        <card number="1" name="Shadowspear"/>
-        <card number="1" name="Tormod's Crypt"/>
-        <card number="1" name="Fireshrieker"/>
-        <card number="1" name="Welding Jar"/>
-        <card number="1" name="Metalworker"/>
-        <card number="1" name="Void Winnower"/>
         <card number="12" name="Wastes"/>
-        <card number="1" name="Mishra's Self-Replicator"/>
-        <card number="1" name="Reality Smasher"/>
-        <card number="1" name="Thought-Knot Seer"/>
-        <card number="1" name="Mycosynth Golem"/>
-        <card number="1" name="Suspicious Bookcase"/>
-        <card number="1" name="Grafted Exoskeleton"/>
-        <card number="1" name="Sword of Fire and Ice"/>
-        <card number="1" name="Sword of Feast and Famine"/>
-        <card number="1" name="Trailblazer's Boots"/>
-        <card number="1" name="Quietus Spike"/>
-        <card number="1" name="Krark-Clan Ironworks"/>
-        <card number="1" name="Semblance Anvil"/>
-        <card number="1" name="Gingerbrute"/>
-        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Karn, Silver Golem"/>
         <card number="1" name="All Is Dust"/>
-        <card number="1" name="Wurmcoil Engine"/>
-        <card number="1" name="Prophet of the Peak"/>
-        <card number="1" name="Shambling Suit"/>
-        <card number="1" name="Lesser Masticore"/>
-        <card number="1" name="Sparkhunter Masticore"/>
+        <card number="1" name="Not of This World"/>
+        <card number="2" name="Metalworker"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="1" name="Karn, the Great Creator"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Cloud Key"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Semblance Anvil"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Ichor Wellspring"/>
+        <card number="1" name="Ichorclaw Myr"/>
+        <card number="1" name="Hovermyr"/>
+        <card number="1" name="Myr Galvanizer"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Myr Turbine"/>
+        <card number="1" name="Lodestone Myr"/>
+        <card number="1" name="Steel Overseer"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Grafted Exoskeleton"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Dross Scorpion"/>
+        <card number="1" name="Blasting Station"/>
+        <card number="1" name="Salvaging Station"/>
+        <card number="1" name="Kuldotha Forgemaster"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Sculpting Steel"/>
+        <card number="1" name="Unwinding Clock"/>
         <card number="1" name="Blinkmoth Urn"/>
-        <card number="1" name="Arcane Encyclopedia"/>
-        <card number="1" name="Universal Automaton"/>
-        <card number="1" name="Scrapyard Recombiner"/>
-        <card number="1" name="Farmstead Gleaner"/>
-        <card number="1" name="Coldsteel Heart"/>
-        <card number="1" name="Mouth of Ronom"/>
-        <card number="1" name="Scrying Sheets"/>
-        <card number="1" name="Arcum's Astrolabe"/>
-        <card number="1" name="Arcum's Weathervane"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Darksteel Reactor"/>
+        <card number="1" name="Coretapper"/>
+        <card number="1" name="Magebane Armor"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="1" name="Arcbound Stinger"/>
+        <card number="1" name="Arcbound Reclaimer"/>
+        <card number="1" name="Fleetfeather Sandals"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Surge Node"/>
+        <card number="1" name="Oblivion Stone"/>
     </zone>
 </cockatrice_deck>
