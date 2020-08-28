@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Heliod Sun-Crowned</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="27" name="Snow-Covered Plains"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Nyx Lotus"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ancient Den"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Temple Bell"/>
+        <card number="1" name="Linvala, Keeper of Silence"/>
+        <card number="1" name="Heliod, Sun-Crowned"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Orim's Chant"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Mana Tithe"/>
+        <card number="1" name="Ethersworn Canonist"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Sanctum Prelate"/>
+        <card number="1" name="Fragmentize"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Angel's Grace"/>
+        <card number="1" name="Serra Ascendant"/>
+        <card number="1" name="Resplendent Angel"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Ajani, Strength of the Pride"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Angel of Jubilation"/>
+        <card number="1" name="Seraph Sanctuary"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Tomik, Distinguished Advokist"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Sephara, Sky's Blade"/>
+        <card number="1" name="Felidar Sovereign"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Gideon Blackblade"/>
+        <card number="1" name="The Wanderer"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Rings of Brighthearth"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Recruiter of the Guard"/>
+        <card number="1" name="Ranger-Captain of Eos"/>
+        <card number="1" name="Hushbringer"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Pacifism"/>
+        <card number="1" name="Light of Promise"/>
+    </zone>
+</cockatrice_deck>
