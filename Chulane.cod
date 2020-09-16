@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Chulane</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" name="Snow-Covered Island"/>
+        <card number="10" name="Snow-Covered Plains"/>
+        <card number="10" name="Snow-Covered Forest"/>
+        <card number="1" name="String of Disappearances"/>
+        <card number="1" name="Gilded Light"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="On Thin Ice"/>
+        <card number="1" name="Exclude"/>
+        <card number="1" name="Rain of Revelation"/>
+        <card number="1" name="Winter's Rest"/>
+        <card number="1" name="Stream of Thought"/>
+        <card number="1" name="Scour All Possibilities"/>
+        <card number="1" name="Force of Vigor"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Thornado"/>
+        <card number="1" name="Nature's Chant"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Waterlogged Grove"/>
+        <card number="1" name="Chulane, Teller of Tales"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Primeval Bounty"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Marit Lage's Slumber"/>
+        <card number="1" name="Thragtusk"/>
+        <card number="1" name="Faerie Seer"/>
+        <card number="1" name="Barrin, Tolarian Archmage"/>
+        <card number="1" name="Faerie Vandal"/>
+        <card number="1" name="Maraleaf Pixie"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Flusterstorm"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Archetype of Imagination"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Ajani, the Greathearted"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Conclave Mentor"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Force of Savagery"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Sephara, Sky's Blade"/>
+        <card number="1" name="Woolly Razorback"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Pride of the Clouds"/>
+        <card number="1" name="Jubilant Skybonder"/>
+        <card number="1" name="Angel of Jubilation"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Silence"/>
+    </zone>
+</cockatrice_deck>
