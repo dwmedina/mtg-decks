@@ -3,7 +3,7 @@
     <deckname>Heliod Sun-Crowned</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="27" name="Snow-Covered Plains"/>
+        <card number="30" name="Snow-Covered Plains"/>
         <card number="1" name="Inventors' Fair"/>
         <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Rest in Peace"/>
@@ -21,7 +21,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Ancient Den"/>
         <card number="1" name="Aetherflux Reservoir"/>
-        <card number="1" name="Temple Bell"/>
         <card number="1" name="Linvala, Keeper of Silence"/>
         <card number="1" name="Heliod, Sun-Crowned"/>
         <card number="1" name="Silence"/>
@@ -29,11 +28,9 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Mana Tithe"/>
         <card number="1" name="Ethersworn Canonist"/>
         <card number="1" name="Disenchant"/>
         <card number="1" name="Enlightened Tutor"/>
-        <card number="1" name="Sphere of Safety"/>
         <card number="1" name="Aura of Silence"/>
         <card number="1" name="Thalia, Guardian of Thraben"/>
         <card number="1" name="Sanctum Prelate"/>
@@ -49,16 +46,12 @@
         <card number="1" name="Expedition Map"/>
         <card number="1" name="Ajani, Strength of the Pride"/>
         <card number="1" name="Darksteel Mutation"/>
-        <card number="1" name="Well of Lost Dreams"/>
-        <card number="1" name="Angel of Jubilation"/>
         <card number="1" name="Seraph Sanctuary"/>
         <card number="1" name="Triskelion"/>
         <card number="1" name="Walking Ballista"/>
-        <card number="1" name="Tomik, Distinguished Advokist"/>
         <card number="1" name="Grand Abolisher"/>
         <card number="1" name="Drannith Magistrate"/>
         <card number="1" name="Archangel of Thune"/>
-        <card number="1" name="Sephara, Sky's Blade"/>
         <card number="1" name="Felidar Sovereign"/>
         <card number="1" name="Eidolon of Rhetoric"/>
         <card number="1" name="Giver of Runes"/>
@@ -68,14 +61,18 @@
         <card number="1" name="Mox Amber"/>
         <card number="1" name="Karn, Scion of Urza"/>
         <card number="1" name="Basalt Monolith"/>
-        <card number="1" name="Rings of Brighthearth"/>
         <card number="1" name="Mox Opal"/>
         <card number="1" name="Recruiter of the Guard"/>
         <card number="1" name="Ranger-Captain of Eos"/>
         <card number="1" name="Hushbringer"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Containment Priest"/>
-        <card number="1" name="Pacifism"/>
         <card number="1" name="Light of Promise"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Leonin Arbiter"/>
+        <card number="1" name="Order of the Sacred Torch"/>
     </zone>
 </cockatrice_deck>

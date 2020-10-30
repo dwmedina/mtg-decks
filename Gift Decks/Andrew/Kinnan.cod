@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kinnan</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kinnan, Bonder Prodigy"/>
+        <card number="14" name="Forest"/>
+        <card number="14" name="Island"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Dramatic Reversal"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arcane Encyclopedia"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="The Magic Mirror"/>
+        <card number="1" name="Rogue's Gloves"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Divination"/>
+        <card number="1" name="Convolute"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Quench"/>
+        <card number="1" name="Prohibit"/>
+        <card number="1" name="Syncopate"/>
+        <card number="1" name="Neutralize"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Dissolve"/>
+        <card number="1" name="Barrier Breach"/>
+        <card number="1" name="Ominous Seas"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Maraleaf Pixie"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Gyre Engineer"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Mind Spring"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Miscast"/>
+        <card number="1" name="High Tide"/>
+        <card number="1" name="Stormwing Entity"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Season of Growth"/>
+        <card number="1" name="Jace, Wielder of Mysteries"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Quest for Renewal"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="God-Pharaoh's Statue"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Titanoth Rex"/>
+        <card number="1" name="Krosan Colossus"/>
+        <card number="1" name="Llawan, Cephalid Empress"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Prosperity"/>
+        <card number="1" name="Niblis of Dusk"/>
+        <card number="1" name="Once and Future"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Tamiyo's Epiphany"/>
+        <card number="1" name="Hush"/>
+        <card number="1" name="Dissenter's Deliverance"/>
+        <card number="1" name="Smoke Shroud"/>
+    </zone>
+</cockatrice_deck>

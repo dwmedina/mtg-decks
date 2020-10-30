@@ -3,13 +3,11 @@
     <deckname>Slimefoot</deckname>
     <comments>Gift deck for Iron!
 
-Christmas 2020
-
-07/11/2020  19:41 EDT</comments>
+Christmas 2020</comments>
     <zone name="main">
         <card number="1" name="Slimefoot, the Stowaway"/>
         <card number="16" name="Swamp"/>
-        <card number="16" name="Forest"/>
+        <card number="15" name="Forest"/>
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Golgari Guildgate"/>
         <card number="1" name="Jungle Hollow"/>
@@ -77,5 +75,6 @@ Christmas 2020
         <card number="1" name="Tainted Strike"/>
         <card number="1" name="Night's Whisper"/>
         <card number="1" name="Fungal Rebirth"/>
+        <card number="1" name="Feed the Swarm"/>
     </zone>
 </cockatrice_deck>

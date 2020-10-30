@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sygg, River Cutthroat"/>
+        <card number="14" name="Island"/>
+        <card number="14" name="Swamp"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Soul Manipulation"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Drown in the Loch"/>
+        <card number="1" name="Tyrant's Scorn"/>
+        <card number="1" name="Ashiok, Dream Render"/>
+        <card number="1" name="Soul Diviner"/>
+        <card number="1" name="Musician"/>
+        <card number="1" name="Thought Erasure"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Notion Rain"/>
+        <card number="1" name="Mnemonic Betrayal"/>
+        <card number="1" name="Dimir Infiltrator"/>
+        <card number="1" name="Connive // Concoct"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Disinformation Campaign"/>
+        <card number="1" name="Sinister Sabotage"/>
+        <card number="1" name="Latchkey Faerie"/>
+        <card number="1" name="Zareth San, the Trickster"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="1" name="Blackbloom Rogue"/>
+        <card number="1" name="Thieving Skydiver"/>
+        <card number="1" name="Pteramander"/>
+        <card number="1" name="Sengir Vampire"/>
+        <card number="1" name="Demon of Loathing"/>
+        <card number="1" name="Tombstalker"/>
+        <card number="1" name="Warden of Evos Isle"/>
+        <card number="1" name="Niblis of Frost"/>
+        <card number="1" name="Stolen by the Fae"/>
+        <card number="1" name="The Haunt of Hightower"/>
+        <card number="1" name="Spawn of Mayhem"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Loyal Drake"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dimir Spybug"/>
+        <card number="1" name="Demon of Catastrophes"/>
+        <card number="1" name="Twilight Prophet"/>
+        <card number="1" name="Unexplained Disappearance"/>
+        <card number="1" name="Stream of Thought"/>
+        <card number="1" name="Mission Briefing"/>
+        <card number="1" name="Deluge"/>
+        <card number="1" name="Exhaustion"/>
+        <card number="1" name="Misstep"/>
+        <card number="1" name="Mental Misstep"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Undermine"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Convolute"/>
+        <card number="1" name="Disappearing Act"/>
+        <card number="1" name="Hindering Touch"/>
+        <card number="1" name="Helm of the Ghastlord"/>
+        <card number="1" name="Flooded Woodlands"/>
+        <card number="1" name="Repay in Kind"/>
+        <card number="1" name="Military Intelligence"/>
+        <card number="1" name="Spreading Seas"/>
+        <card number="1" name="Lingering Mirage"/>
+        <card number="1" name="Convincing Mirage"/>
+        <card number="1" name="Fishliver Oil"/>
+    </zone>
+</cockatrice_deck>

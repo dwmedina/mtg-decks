@@ -4,84 +4,74 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Mogis, God of Slaughter"/>
+        <card number="16" name="Snow-Covered Mountain"/>
+        <card number="16" name="Snow-Covered Swamp"/>
         <card number="1" name="Graven Cairns"/>
-        <card number="1" name="Shadowblood Ridge"/>
-        <card number="1" name="Ancient Tomb"/>
-        <card number="1" name="Rakdos Signet"/>
-        <card number="1" name="Sulfurous Springs"/>
-        <card number="1" name="City of Brass"/>
-        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Blood Crypt"/>
         <card number="1" name="Luxury Suite"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Smoldering Marsh"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="11" name="Snow-Covered Mountain"/>
-        <card number="11" name="Snow-Covered Swamp"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Temple of Malice"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Shadowblood Ridge"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Fiery Emancipation"/>
-        <card number="1" name="Ankh of Mishra"/>
-        <card number="1" name="Kroxa, Titan of Death's Hunger"/>
-        <card number="1" name="Vial Smasher the Fierce"/>
-        <card number="1" name="Heartless Act"/>
-        <card number="1" name="Sudden Spoiling"/>
-        <card number="1" name="Bedevil"/>
-        <card number="1" name="Grafdigger's Cage"/>
-        <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Scour from Existence"/>
-        <card number="1" name="Deflecting Swat"/>
-        <card number="1" name="Gamble"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Defile"/>
-        <card number="1" name="Tragic Slip"/>
-        <card number="1" name="Black Sun's Zenith"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Blood Moon"/>
-        <card number="1" name="Pyrohemia"/>
-        <card number="1" name="Tectonic Reformation"/>
-        <card number="1" name="Strip Mine"/>
-        <card number="1" name="Spiteful Prankster"/>
-        <card number="1" name="Chandra, Torch of Defiance"/>
-        <card number="1" name="Liliana, Waker of the Dead"/>
-        <card number="1" name="Terror of the Peaks"/>
-        <card number="1" name="Megrim"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Vicious Rumors"/>
-        <card number="1" name="Gonti's Machinations"/>
-        <card number="1" name="Bloodchief Ascension"/>
-        <card number="1" name="Tormod's Crypt"/>
-        <card number="1" name="Soul-Guide Lantern"/>
-        <card number="1" name="Terminate"/>
-        <card number="1" name="Yarok's Fenlurker"/>
-        <card number="1" name="Ensnaring Bridge"/>
-        <card number="1" name="Tainted Remedy"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Manaforge Cinder"/>
+        <card number="1" name="Mox Tantalite"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Simian Spirit Guide"/>
+        <card number="1" name="Treasonous Ogre"/>
         <card number="1" name="Damnation"/>
-        <card number="1" name="Loyal Subordinate"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
-        <card number="1" name="Twilight Prophet"/>
-        <card number="1" name="Dreadhorde Butcher"/>
-        <card number="1" name="Magus of the Abyss"/>
-        <card number="1" name="Magus of the Moon"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Winds of Change"/>
+        <card number="1" name="Chandra, Flame's Catalyst"/>
+        <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Tinybones, Trinket Thief"/>
-        <card number="1" name="Grim Haruspex"/>
-        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Syphon Mind"/>
+        <card number="1" name="Dark Deal"/>
         <card number="1" name="Village Rites"/>
         <card number="1" name="Read the Bones"/>
-        <card number="1" name="Copper Tablet"/>
-        <card number="1" name="Misers' Cage"/>
-        <card number="1" name="Spellshock"/>
-        <card number="1" name="No Mercy"/>
-        <card number="1" name="Erebos, God of the Dead"/>
-        <card number="1" name="Tectonic Giant"/>
-        <card number="1" name="Havoc Festival"/>
-        <card number="1" name="Ill-Gotten Inheritance"/>
-        <card number="1" name="Toxic Deluge"/>
-        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Foreboding Fruit"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Force of Despair"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Cleansing Wildfire"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Murderous Rider"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Sulfuric Vortex"/>
+        <card number="1" name="Kroxa, Titan of Death's Hunger"/>
+        <card number="1" name="Kokusho, the Evening Star"/>
+        <card number="1" name="Twilight Prophet"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Harsh Mentor"/>
+        <card number="1" name="Immolation Shaman"/>
+        <card number="1" name="Ankh of Mishra"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Zo-Zu the Punisher"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Thermo-Alchemist"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="1" name="Painful Quandary"/>
+        <card number="1" name="Liliana's Caress"/>
+        <card number="1" name="Bloodchief Ascension"/>
+        <card number="1" name="Spiteful Visions"/>
+        <card number="1" name="Kederekt Parasite"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Phyresis"/>
     </zone>
 </cockatrice_deck>
