@@ -52,5 +52,32 @@
         <card number="1" name="Verdant Force"/>
         <card number="1" name="Tendershoot Dryad"/>
         <card number="1" name="Mycoloth"/>
+        <card number="1" name="Cryptbreaker"/>
+        <card number="1" name="Ghoulcaller Gisa"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Josu Vess, Lich Knight"/>
+        <card number="1" name="Cemetery Reaper"/>
+        <card number="1" name="Endless Ranks of the Dead"/>
+        <card number="1" name="Snake Basket"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Invigorating Surge"/>
+        <card number="1" name="Corpsejack Menace"/>
+        <card number="1" name="Winding Constrictor"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Solidarity of Heroes"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Oblivion's Hunger"/>
+        <card number="1" name="Berserk"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Might of the Masses"/>
+        <card number="1" name="Confidence from Strength"/>
+        <card number="1" name="Biogenic Upgrade"/>
     </zone>
 </cockatrice_deck>
