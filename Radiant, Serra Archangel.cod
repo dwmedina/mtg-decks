@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Radiant, Serra Archangel</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Radiant, Serra Archangel"/>
+        <card number="1" name="Serra the Benevolent"/>
+        <card number="1" name="Serra's Sanctum"/>
+        <card number="1" name="Catastrophe"/>
+        <card number="1" name="Angelic Destiny"/>
+        <card number="1" name="Entreat the Angels"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Answered Prayers"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="34" name="Plains"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Grafted Exoskeleton"/>
+        <card number="1" name="Absolute Grace"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Dismantling Wave"/>
+        <card number="1" name="Sublime Archangel"/>
+        <card number="1" name="Hope and Glory"/>
+        <card number="1" name="Pariah"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Planar Collapse"/>
+        <card number="1" name="Radiant's Judgment"/>
+        <card number="1" name="Humble"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Daxos, Blessed by the Sun"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Resplendent Angel"/>
+        <card number="1" name="Herald of Serra"/>
+        <card number="1" name="Seraph of the Sword"/>
+        <card number="1" name="Seraph Sanctuary"/>
+        <card number="1" name="Seraphic Greatsword"/>
+        <card number="1" name="Angel of Finality"/>
+        <card number="1" name="Angel's Grace"/>
+        <card number="1" name="Angel's Feather"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Bishop of Wings"/>
+        <card number="1" name="Serra Ascendant"/>
+        <card number="1" name="Soul's Attendant"/>
+        <card number="1" name="Lyra Dawnbringer"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Baneslayer Angel"/>
+        <card number="1" name="Glorious Anthem"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Replenish"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Worship"/>
+        <card number="1" name="Greater Auramancy"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Ajani, Strength of the Pride"/>
+        <card number="1" name="Godsend"/>
+        <card number="1" name="Endless Horizons"/>
+        <card number="1" name="Daybreak Coronet"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Day of Judgment"/>
+    </zone>
+</cockatrice_deck>
