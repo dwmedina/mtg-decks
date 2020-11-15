@@ -8,74 +8,74 @@
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Ash Barrens"/>
         <card number="1" name="Twilight Mire"/>
         <card number="14" name="Snow-Covered Swamp"/>
         <card number="14" name="Snow-Covered Forest"/>
         <card number="1" name="Homeward Path"/>
         <card number="1" name="Bayou"/>
-        <card number="1" name="Rotting Regisaur"/>
-        <card number="1" name="Rank Officer"/>
         <card number="1" name="Squandered Resources"/>
-        <card number="1" name="Ruthless Sniper"/>
-        <card number="1" name="Archfiend of Ifnir"/>
-        <card number="1" name="Nantuko Cultivator"/>
-        <card number="1" name="Nantuko Mentor"/>
-        <card number="1" name="Fauna Shaman"/>
-        <card number="1" name="Tinybones, Trinket Thief"/>
-        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
-        <card number="1" name="Titania, Protector of Argoth"/>
         <card number="1" name="Crucible of Worlds"/>
-        <card number="1" name="Azusa, Lost but Seeking"/>
-        <card number="1" name="Beanstalk Giant"/>
-        <card number="1" name="Migration Path"/>
-        <card number="1" name="Harrow"/>
-        <card number="1" name="Crop Rotation"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Elves of Deep Shadow"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Krosan Tusker"/>
-        <card number="1" name="Avenger of Zendikar"/>
-        <card number="1" name="Yawgmoth, Thran Physician"/>
-        <card number="1" name="Nissa, Who Shakes the World"/>
         <card number="1" name="Overgrown Tomb"/>
-        <card number="1" name="Barrier Breach"/>
-        <card number="1" name="Assassin's Trophy"/>
-        <card number="1" name="Deathrite Shaman"/>
-        <card number="1" name="Courser of Kruphix"/>
-        <card number="1" name="Veil of Summer"/>
-        <card number="1" name="Kozilek, Butcher of Truth"/>
-        <card number="1" name="Abrupt Decay"/>
-        <card number="1" name="Savage Summoning"/>
-        <card number="1" name="Return to Nature"/>
-        <card number="1" name="Collector Ouphe"/>
-        <card number="1" name="Toxic Deluge"/>
-        <card number="1" name="Life from the Loam"/>
         <card number="1" name="Carpet of Flowers"/>
-        <card number="1" name="Sylvan Library"/>
         <card number="1" name="Oblivion Crown"/>
-        <card number="1" name="Golgari Grave-Troll"/>
-        <card number="1" name="Gigantomancer"/>
-        <card number="1" name="Mazirek, Kraul Death Priest"/>
-        <card number="1" name="Putrefy"/>
-        <card number="1" name="Grisly Salvage"/>
         <card number="1" name="Vraska, Golgari Queen"/>
-        <card number="1" name="Embodiment of Agonies"/>
-        <card number="1" name="Ancient Animus"/>
-        <card number="1" name="Beast Within"/>
-        <card number="1" name="Vines of Vastwood"/>
-        <card number="1" name="Deathsprout"/>
         <card number="1" name="Dark Heart of the Wood"/>
         <card number="1" name="Necrogenesis"/>
-        <card number="1" name="Defile"/>
-        <card number="1" name="Mutilate"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Stitch Together"/>
-        <card number="1" name="Dread"/>
-        <card number="1" name="Scion of the Wild"/>
-        <card number="1" name="Plunge into Darkness"/>
-        <card number="1" name="Final Death"/>
         <card number="1" name="Retreat to Kazandu"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Eat to Extinction"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Bitter Ordeal"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Kindred Dominance"/>
+        <card number="1" name="Abrupt Decay"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Deathsprout"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Zuran Orb"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Ancient Greenwarden"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Scute Mob"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Constant Mists"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Excavating Anurid"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Scapeshift"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Wilt"/>
+        <card number="1" name="Nissa of Shadowed Boughs"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+        <card number="1" name="Retreat to Hagra"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Bloodsoaked Altar"/>
+        <card number="1" name="Witch's Oven"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Genesis Wave"/>
     </zone>
 </cockatrice_deck>

@@ -49,7 +49,6 @@
         <card number="1" name="Slimefoot, the Stowaway"/>
         <card number="1" name="Selesnya Eulogist"/>
         <card number="1" name="Deathbloom Thallid"/>
-        <card number="1" name="Verdant Force"/>
         <card number="1" name="Tendershoot Dryad"/>
         <card number="1" name="Mycoloth"/>
         <card number="1" name="Cryptbreaker"/>
@@ -79,5 +78,6 @@
         <card number="1" name="Might of the Masses"/>
         <card number="1" name="Confidence from Strength"/>
         <card number="1" name="Biogenic Upgrade"/>
+        <card number="1" name="Pollenbright Druid"/>
     </zone>
 </cockatrice_deck>
