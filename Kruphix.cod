@@ -4,81 +4,79 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Kruphix, God of Horizons"/>
-        <card number="11" name="Island"/>
+        <card number="13" name="Island"/>
         <card number="14" name="Forest"/>
-        <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Botanical Sanctum"/>
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Hinterland Harbor"/>
-        <card number="1" name="Waterlogged Grove"/>
         <card number="1" name="Flooded Grove"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="Castle Vantress"/>
         <card number="1" name="Mystic Sanctuary"/>
         <card number="1" name="Mosswort Bridge"/>
-        <card number="1" name="Gingerbread Cabin"/>
-        <card number="1" name="Compost"/>
-        <card number="1" name="Shapers' Sanctuary"/>
-        <card number="1" name="Unknown Shores"/>
-        <card number="1" name="Garruk's Uprising"/>
-        <card number="1" name="Mirri's Guile"/>
-        <card number="1" name="Sixth Sense"/>
-        <card number="1" name="Trade Routes"/>
-        <card number="1" name="Teferi's Ageless Insight"/>
-        <card number="1" name="Ominous Seas"/>
-        <card number="1" name="Thought Reflection"/>
-        <card number="1" name="Growing Rites of Itlimoc"/>
-        <card number="1" name="Fertile Ground"/>
-        <card number="1" name="Unbound Flourishing"/>
-        <card number="1" name="Wild Growth"/>
-        <card number="1" name="Song of Freyalise"/>
-        <card number="1" name="Birds of Paradise"/>
-        <card number="1" name="Gilded Goose"/>
-        <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Sylvan Caryatid"/>
-        <card number="1" name="Quirion Explorer"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Far Wanderings"/>
-        <card number="1" name="Harvest Season"/>
-        <card number="1" name="Primal Growth"/>
-        <card number="1" name="Evacuation"/>
-        <card number="1" name="Devastation Tide"/>
-        <card number="1" name="River's Rebuke"/>
-        <card number="1" name="Displacement Wave"/>
-        <card number="1" name="Wash Out"/>
-        <card number="1" name="Chain of Vapor"/>
-        <card number="1" name="Winds of Rebuke"/>
-        <card number="1" name="Petty Theft"/>
-        <card number="1" name="Blink of an Eye"/>
-        <card number="1" name="Disperse"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Kazandu Nectarpot"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Undergrowth Champion"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Collective Voyage"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Oko, Thief of Crowns"/>
-        <card number="1" name="Teferi, Master of Time"/>
-        <card number="1" name="Vivien, Arkbow Ranger"/>
-        <card number="1" name="Altered Ego"/>
-        <card number="1" name="Endless One"/>
-        <card number="1" name="Feral Hydra"/>
-        <card number="1" name="Gadwick, the Wizened"/>
-        <card number="1" name="Hydroid Krasis"/>
-        <card number="1" name="Mistcutter Hydra"/>
-        <card number="1" name="Primordial Hydra"/>
-        <card number="1" name="Steelbane Hydra"/>
-        <card number="1" name="Voracious Hydra"/>
-        <card number="1" name="Wildborn Preserver"/>
-        <card number="1" name="Arbor Colossus"/>
-        <card number="1" name="Elder Gargaroth"/>
-        <card number="1" name="Sylvan Primordial"/>
-        <card number="1" name="Great Oak Guardian"/>
-        <card number="1" name="God-Eternal Rhonas"/>
-        <card number="1" name="Rhonas the Indomitable"/>
-        <card number="1" name="Worldspine Wurm"/>
-        <card number="1" name="Ghalta, Primal Hunger"/>
-        <card number="1" name="Jokulmorder"/>
-        <card number="1" name="Kozilek, Butcher of Truth"/>
-        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Natural End"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Zendikar's Roil"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Beanstalk Giant"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Barrier Breach"/>
+        <card number="1" name="Didn't Say Please"/>
+        <card number="1" name="Mystical Dispute"/>
+        <card number="1" name="Miscast"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="So Tiny"/>
+        <card number="1" name="The Magic Mirror"/>
+        <card number="1" name="Witching Well"/>
+        <card number="1" name="Nissa, Who Shakes the World"/>
+        <card number="1" name="Mu Yanling, Sky Dancer"/>
+        <card number="1" name="Hullbreacher"/>
+        <card number="1" name="Capsize"/>
+        <card number="1" name="Chain of Vapor"/>
+        <card number="1" name="Aether Gust"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Regal Force"/>
         <card number="1" name="Ulamog, the Ceaseless Hunger"/>
-        <card number="1" name="Void Winnower"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Tooth and Nail"/>
+        <card number="1" name="Horn of Greed"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Mass Manipulation"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="1" name="Karn Liberated"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Disallow"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Forbid"/>
     </zone>
 </cockatrice_deck>
