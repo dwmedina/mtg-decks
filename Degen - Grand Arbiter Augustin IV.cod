@@ -14,15 +14,9 @@
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Darksteel Ingot"/>
-        <card number="1" name="Alloy Myr"/>
-        <card number="1" name="Opaline Unicorn"/>
         <card number="1" name="Gilded Lotus"/>
         <card number="1" name="Weathered Wayfarer"/>
-        <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Land Tax"/>
-        <card number="1" name="Altar of the Pantheon"/>
         <card number="1" name="Lotus Petal"/>
         <card number="1" name="Mox Amber"/>
         <card number="1" name="Mox Opal"/>
@@ -32,7 +26,6 @@
         <card number="1" name="Thalia, Guardian of Thraben"/>
         <card number="1" name="Thalia, Heretic Cathar"/>
         <card number="1" name="Aven Mindcensor"/>
-        <card number="1" name="Patron Wizard"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Memory Lapse"/>
         <card number="1" name="Mental Misstep"/>
@@ -40,10 +33,8 @@
         <card number="1" name="Teferi, Master of Time"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Raff Capashen, Ship's Mage"/>
-        <card number="1" name="Jhoira's Familiar"/>
         <card number="1" name="Ethersworn Canonist"/>
         <card number="1" name="Deafening Silence"/>
-        <card number="1" name="Auramancer"/>
         <card number="1" name="Pedantic Learning"/>
         <card number="13" name="Snow-Covered Plains"/>
         <card number="13" name="Snow-Covered Island"/>
@@ -62,7 +53,6 @@
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Personal Tutor"/>
         <card number="1" name="Expropriate"/>
-        <card number="1" name="Magus of the Balance"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Catastrophe"/>
         <card number="1" name="Narset, Parter of Veils"/>
@@ -72,12 +62,22 @@
         <card number="1" name="Fierce Guardianship"/>
         <card number="1" name="Linvala, Keeper of Silence"/>
         <card number="1" name="Elesh Norn, Grand Cenobite"/>
-        <card number="1" name="Silent Arbiter"/>
         <card number="1" name="Ulamog, the Ceaseless Hunger"/>
         <card number="1" name="Ancient Den"/>
         <card number="1" name="Seat of the Synod"/>
         <card number="1" name="Veilstone Amulet"/>
         <card number="1" name="Jace, Vryn's Prodigy"/>
         <card number="1" name="Snapcaster Mage"/>
+        <card number="1" name="Sunder"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Hushbringer"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Angel's Grace"/>
+        <card number="1" name="Trickbind"/>
+        <card number="1" name="Shimmer Dragon"/>
+        <card number="1" name="Tithe Taker"/>
+        <card number="1" name="Torpor Orb"/>
+        <card number="1" name="Sword of the Animist"/>
     </zone>
 </cockatrice_deck>
