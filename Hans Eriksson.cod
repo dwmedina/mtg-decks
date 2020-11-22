@@ -67,7 +67,6 @@
         <card number="1" name="Borborygmos"/>
         <card number="1" name="Borborygmos Enraged"/>
         <card number="1" name="Avatar of Slaughter"/>
-        <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Ruric Thar, the Unbowed"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Somberwald Sage"/>
@@ -75,5 +74,6 @@
         <card number="1" name="Foundry Inspector"/>
         <card number="1" name="Jhoira's Familiar"/>
         <card number="1" name="Helm of Awakening"/>
+        <card number="1" name="Terror of the Peaks"/>
     </zone>
 </cockatrice_deck>
