@@ -4,11 +4,9 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Castle Locthwain"/>
-        <card number="1" name="Barren Moor"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Jet Medallion"/>
         <card number="1" name="Phyrexian Tower"/>
-        <card number="29" name="Snow-Covered Swamp"/>
+        <card number="28" name="Snow-Covered Swamp"/>
         <card number="1" name="Gilded Lotus"/>
         <card number="1" name="Caged Sun"/>
         <card number="1" name="Command Beacon"/>
@@ -29,14 +27,11 @@
         <card number="1" name="Dark Impostor"/>
         <card number="1" name="Grave Pact"/>
         <card number="1" name="Exsanguinate"/>
-        <card number="1" name="Exhume"/>
         <card number="1" name="Twilight Prophet"/>
         <card number="1" name="Vampire Cutthroat"/>
         <card number="1" name="Alhammarret's Archive"/>
         <card number="1" name="Demon's Horn"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Staff of the Death Magus"/>
-        <card number="1" name="Whip of Erebos"/>
         <card number="1" name="Bolas's Citadel"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Black Market"/>
@@ -48,18 +43,15 @@
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Beseech the Queen"/>
         <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Toxic Deluge"/>
         <card number="1" name="Mikaeus, the Unhallowed"/>
         <card number="1" name="Triskelion"/>
-        <card number="1" name="Scour from Existence"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Ayara, First of Locthwain"/>
         <card number="1" name="Dread Shade"/>
         <card number="1" name="Shadowspear"/>
         <card number="1" name="Rune-Scarred Demon"/>
         <card number="1" name="Embodiment of Agonies"/>
-        <card number="1" name="Archfiend of Despair"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Black Sun's Zenith"/>
         <card number="1" name="Dark Deal"/>
@@ -67,13 +59,22 @@
         <card number="1" name="Village Rites"/>
         <card number="1" name="Foreboding Fruit"/>
         <card number="1" name="Necropotence"/>
-        <card number="1" name="Cast Down"/>
-        <card number="1" name="Price of Fame"/>
         <card number="1" name="Final Death"/>
         <card number="1" name="Damnation"/>
         <card number="1" name="Cordial Vampire"/>
         <card number="1" name="Vampire Hexmage"/>
-        <card number="1" name="Wound Reflection"/>
         <card number="1" name="Sengir, the Dark Baron"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Imp's Mischief"/>
+        <card number="1" name="Skithiryx, the Blight Dragon"/>
+        <card number="1" name="Vraska's Contempt"/>
+        <card number="1" name="Tainted Strike"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Polluted Bonds"/>
+        <card number="1" name="Snake Cult Initiation"/>
     </zone>
 </cockatrice_deck>
