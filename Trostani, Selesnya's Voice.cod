@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Trostani, Selesnya's Voice</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Trostani, Selesnya's Voice"/>
+        <card number="15" name="Forest"/>
+        <card number="15" name="Plains"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Soul of Eternity"/>
+        <card number="1" name="Lathiel, the Bounteous Dawn"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Soul's Attendant"/>
+        <card number="1" name="Soul Warden"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Brimaz, King of Oreskos"/>
+        <card number="1" name="Crashing Footfalls"/>
+        <card number="1" name="Fungal Rebirth"/>
+        <card number="1" name="Fresh Meat"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Leyline of Vitality"/>
+        <card number="1" name="Leyline of the Meek"/>
+        <card number="1" name="Wayfaring Temple"/>
+        <card number="1" name="Beanstalk Giant"/>
+        <card number="1" name="Reach of Branches"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Mirrorworks"/>
+        <card number="1" name="Cloud Key"/>
+        <card number="1" name="Mishra's Self-Replicator"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Secure the Wastes"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Daxos, Blessed by the Sun"/>
+        <card number="1" name="Heliod's Intervention"/>
+        <card number="1" name="Light of Promise"/>
+        <card number="1" name="Kazandu Nectarpot"/>
+        <card number="1" name="Sporeweb Weaver"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Devout Invocation"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Rally for the Throne"/>
+        <card number="1" name="Angelic Ascension"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Dismantling Wave"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Tranquility"/>
+        <card number="1" name="Recruit the Worthy"/>
+        <card number="1" name="Song of the Worldsoul"/>
+        <card number="1" name="Growing Ranks"/>
+        <card number="1" name="Sundering Growth"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Day of Judgment"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Vitu-Ghazi Guildmage"/>
+    </zone>
+</cockatrice_deck>
