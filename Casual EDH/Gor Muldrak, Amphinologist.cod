@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gor Muldrak, Amphinologist</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Gor Muldrak, Amphinologist"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="14" name="Forest"/>
+        <card number="13" name="Island"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Arcane Adaptation"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Xenograft"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Gudul Lurker"/>
+        <card number="1" name="Wormfang Newt"/>
+        <card number="1" name="Pteramander"/>
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Amphin Pathmage"/>
+        <card number="1" name="Aeromunculus"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Merfolk Skydiver"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Callous Dismissal"/>
+        <card number="1" name="Lazotep Plating"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Kiora's Dambreaker"/>
+        <card number="1" name="Pollenbright Druid"/>
+        <card number="1" name="Prowling Serpopard"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Roalesk, Apex Hybrid"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Teferi's Time Twist"/>
+        <card number="1" name="Thunder Drake"/>
+        <card number="1" name="Wardscale Crocodile"/>
+        <card number="1" name="Murkfiend Liege"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Silverback Shaman"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Maraleaf Pixie"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Territorial Scythecat"/>
+        <card number="1" name="Mystic Decree"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Disperse"/>
+        <card number="1" name="Aether Gust"/>
+        <card number="1" name="Stifle"/>
+        <card number="1" name="Trickbind"/>
+        <card number="1" name="Helix Pinnacle"/>
+        <card number="1" name="Turn into a Pumpkin"/>
+        <card number="1" name="Venser's Diffusion"/>
+        <card number="1" name="Ranger's Guile"/>
+        <card number="1" name="Mystic Repeal"/>
+        <card number="1" name="Elvish Fury"/>
+        <card number="1" name="Contentious Plan"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Inexorable Tide"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Garruk Wildspeaker"/>
+        <card number="1" name="Tamiyo, the Moon Sage"/>
+        <card number="1" name="Court of Bounty"/>
+    </zone>
+</cockatrice_deck>
