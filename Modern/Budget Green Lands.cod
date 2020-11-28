@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Arboreal Grazer"/>
+        <card number="4" name="Expedition Map"/>
+        <card number="2" name="Tormod's Crypt"/>
+        <card number="24" name="Forest"/>
+        <card number="4" name="Explore"/>
+        <card number="4" name="Adventurous Impulse"/>
+        <card number="4" name="Scute Swarm"/>
+        <card number="2" name="Blossoming Defense"/>
+        <card number="4" name="Terra Stomper"/>
+        <card number="3" name="Return to Nature"/>
+        <card number="4" name="Primal Bellow"/>
+        <card number="1" name="Weather the Storm"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Tormod's Crypt"/>
+        <card number="2" name="Scale the Heights"/>
+        <card number="3" name="Autumn's Veil"/>
+        <card number="2" name="Blossoming Defense"/>
+        <card number="3" name="Reclamation Sage"/>
+        <card number="3" name="Weather the Storm"/>
+    </zone>
+</cockatrice_deck>
