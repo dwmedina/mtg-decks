@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Budget Burn</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Monastery Swiftspear"/>
+        <card number="20" name="Snow-Covered Mountain"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Heartfire Immolator"/>
+        <card number="4" name="Wizard's Lightning"/>
+        <card number="4" name="Searing Spear"/>
+        <card number="4" name="Rift Bolt"/>
+        <card number="4" name="Tormod's Crypt"/>
+        <card number="4" name="Galvanic Blast"/>
+        <card number="3" name="Sulfuric Vortex"/>
+        <card number="4" name="Slaying Fire"/>
+        <card number="1" name="Pillage"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pyroclasm"/>
+        <card number="1" name="Exquisite Firecraft"/>
+        <card number="4" name="Flame Rift"/>
+        <card number="4" name="Pyrostatic Pillar"/>
+        <card number="4" name="Searing Blood"/>
+        <card number="1" name="Lightning Storm"/>
+    </zone>
+</cockatrice_deck>
