@@ -23,16 +23,11 @@
         <card number="1" name="Scapeshift"/>
         <card number="1" name="Dramatic Reversal"/>
         <card number="1" name="Isochron Scepter"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Simic Signet"/>
         <card number="1" name="Basalt Monolith"/>
         <card number="1" name="Fervent Champion"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Birds of Paradise"/>
-        <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Nature's Claim"/>
@@ -68,13 +63,18 @@
         <card number="1" name="Risen Reef"/>
         <card number="1" name="Sensei's Divining Top"/>
         <card number="1" name="Elvish Reclaimer"/>
-        <card number="1" name="Chrome Mox"/>
-        <card number="1" name="Mox Opal"/>
         <card number="1" name="Mox Amber"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Horn of Greed"/>
         <card number="1" name="Amulet of Vigor"/>
         <card number="1" name="Wilderness Reclamation"/>
         <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Storm the Vault"/>
     </zone>
 </cockatrice_deck>
