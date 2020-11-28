@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Drannith Magistrate"/>
+        <card number="4" name="Hushbringer"/>
+        <card number="4" name="Alseid of Life's Bounty"/>
+        <card number="2" name="Containment Priest"/>
+        <card number="3" name="Deafening Silence"/>
+        <card number="3" name="Maul of the Skyclaves"/>
+        <card number="3" name="Skyclave Apparition"/>
+        <card number="4" name="Makindi Stampede"/>
+        <card number="4" name="Sejiri Shelter"/>
+        <card number="13" name="Plains"/>
+        <card number="2" name="Banishing Light"/>
+        <card number="3" name="Revoke Existence"/>
+        <card number="4" name="Heliod, Sun-Crowned"/>
+        <card number="3" name="Soul-Guide Lantern"/>
+        <card number="4" name="Shatter the Sky"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Containment Priest"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="2" name="Eidolon of Obstruction"/>
+        <card number="2" name="Banishing Light"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="3" name="The Birth of Meletis"/>
+        <card number="2" name="Idyllic Tutor"/>
+        <card number="2" name="Archon of Emeria"/>
+    </zone>
+</cockatrice_deck>
