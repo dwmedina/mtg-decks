@@ -4,8 +4,8 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Gabriel Angelfire"/>
-        <card number="13" name="Plains"/>
-        <card number="13" name="Forest"/>
+        <card number="9" name="Plains"/>
+        <card number="19" name="Forest"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Nemesis Mask"/>
         <card number="1" name="Sol Ring"/>
@@ -62,7 +62,6 @@
         <card number="1" name="Feral Hydra"/>
         <card number="1" name="Gird for Battle"/>
         <card number="1" name="Irresistible Prey"/>
-        <card number="1" name="Camaraderie"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Tormod's Crypt"/>
         <card number="1" name="Rest in Peace"/>
@@ -75,7 +74,6 @@
         <card number="1" name="Barrier Breach"/>
         <card number="1" name="Flicker of Fate"/>
         <card number="1" name="Revoke Existence"/>
-        <card number="1" name="Wanderer's Strike"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Edge of Autumn"/>
         <card number="1" name="Cultivate"/>

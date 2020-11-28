@@ -61,7 +61,6 @@
         <card number="1" name="Green Sun's Zenith"/>
         <card number="1" name="Black Sun's Zenith"/>
         <card number="1" name="Reanimate"/>
-        <card number="1" name="Dance of the Dead"/>
         <card number="1" name="Animate Dead"/>
         <card number="1" name="Ill-Gotten Gains"/>
         <card number="1" name="Toxic Deluge"/>
@@ -77,5 +76,6 @@
         <card number="1" name="Tinybones, Trinket Thief"/>
         <card number="1" name="Mind Slash"/>
         <card number="1" name="Raiders' Wake"/>
+        <card number="1" name="Necromancy"/>
     </zone>
 </cockatrice_deck>
