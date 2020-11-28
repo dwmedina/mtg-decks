@@ -27,5 +27,12 @@ Easter 2020 00:18 EDT</comments>
     </zone>
     <zone name="side">
         <card number="2" name="Chandra, Novice Pyromancer"/>
+        <card number="2" name="Veil of Summer"/>
+        <card number="1" name="Domri, Anarch of Bolas"/>
+        <card number="3" name="Hellspark Elemental"/>
+        <card number="2" name="Blood Moon"/>
+        <card number="2" name="Leyline of Punishment"/>
+        <card number="1" name="Choke"/>
+        <card number="2" name="Force of Vigor"/>
     </zone>
 </cockatrice_deck>
