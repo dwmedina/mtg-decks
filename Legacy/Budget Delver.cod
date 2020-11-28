@@ -3,22 +3,22 @@
     <deckname>Budget Delver</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="7" name="Forest"/>
-        <card number="7" name="Island"/>
+        <card number="5" name="Forest"/>
+        <card number="9" name="Island"/>
         <card number="7" name="Mountain"/>
         <card number="4" name="Delver of Secrets"/>
         <card number="4" name="Lightning Bolt"/>
         <card number="3" name="Lightning Strike"/>
-        <card number="4" name="Mana Leak"/>
+        <card number="3" name="Mana Leak"/>
         <card number="2" name="Nix"/>
-        <card number="4" name="Arcane Denial"/>
         <card number="4" name="Magmatic Channeler"/>
         <card number="2" name="Jeskai Elder"/>
         <card number="3" name="Ponder"/>
-        <card number="3" name="Deliberate"/>
         <card number="3" name="Abrade"/>
         <card number="2" name="Pillage"/>
-        <card number="1" name="Sixth Sense"/>
+        <card number="4" name="Daze"/>
+        <card number="2" name="Foil"/>
+        <card number="3" name="Weather the Storm"/>
     </zone>
     <zone name="side">
         <card number="2" name="Nix"/>
