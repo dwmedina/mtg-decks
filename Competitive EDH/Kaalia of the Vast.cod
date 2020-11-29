@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kaalia of the Vast</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kaalia of the Vast"/>
+        <card number="1" name="Children of Korlis"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Ranger-Captain of Eos"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Lurrus of the Dream-Den"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Simian Spirit Guide"/>
+        <card number="1" name="Tithe Taker"/>
+        <card number="1" name="Vilis, Broker of Blood"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Spire of Industry"/>
+        <card number="2" name="Snow-Covered Swamp"/>
+        <card number="2" name="Snow-Covered Plains"/>
+        <card number="2" name="Snow-Covered Mountain"/>
+        <card number="1" name="Silent Clearing"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Imperial Seal"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Tainted Pact"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Orim's Chant"/>
+        <card number="1" name="Fire Covenant"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Ad Nauseam"/>
+        <card number="1" name="Burnt Offering"/>
+        <card number="1" name="Cabal Ritual"/>
+        <card number="1" name="Culling the Weak"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Final Fortune"/>
+        <card number="1" name="Mausoleum Secrets"/>
+        <card number="1" name="Plunge into Darkness"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="Rain of Filth"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Praetor's Grasp"/>
+        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Twinflame"/>
+        <card number="1" name="Thoughtseize"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Rite of Flame"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Peer into the Abyss"/>
+        <card number="1" name="Kuldotha Rebirth"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Underworld Breach"/>
+        <card number="1" name="Necropotence"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Dance of the Dead"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Wishclaw Talisman"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Lion's Eye Diamond"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Arcane Signet"/>
+    </zone>
+</cockatrice_deck>
