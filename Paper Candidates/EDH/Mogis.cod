@@ -4,8 +4,8 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Mogis, God of Slaughter"/>
-        <card number="16" name="Snow-Covered Mountain"/>
-        <card number="16" name="Snow-Covered Swamp"/>
+        <card number="15" name="Snow-Covered Mountain"/>
+        <card number="14" name="Snow-Covered Swamp"/>
         <card number="1" name="Graven Cairns"/>
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Luxury Suite"/>
@@ -16,7 +16,6 @@
         <card number="1" name="Mox Opal"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Manaforge Cinder"/>
-        <card number="1" name="Mox Tantalite"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Simian Spirit Guide"/>
         <card number="1" name="Treasonous Ogre"/>
@@ -24,7 +23,6 @@
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Winds of Change"/>
         <card number="1" name="Chandra, Flame's Catalyst"/>
-        <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Tinybones, Trinket Thief"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Erebos, God of the Dead"/>
@@ -54,8 +52,6 @@
         <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Twilight Prophet"/>
         <card number="1" name="Exsanguinate"/>
-        <card number="1" name="Harsh Mentor"/>
-        <card number="1" name="Immolation Shaman"/>
         <card number="1" name="Ankh of Mishra"/>
         <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Zo-Zu the Punisher"/>
@@ -73,5 +69,12 @@
         <card number="1" name="Psychosis Crawler"/>
         <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="Phyresis"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Valakut Awakening"/>
+        <card number="1" name="Valakut, the Molten Pinnacle"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Blood Clock"/>
+        <card number="1" name="Eidolon of the Great Revel"/>
     </zone>
 </cockatrice_deck>
