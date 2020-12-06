@@ -14,9 +14,9 @@
         <card number="1" name="Blooming Marsh"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Overgrown Tomb"/>
-        <card number="9" name="Snow-Covered Forest"/>
-        <card number="9" name="Snow-Covered Mountain"/>
-        <card number="9" name="Snow-Covered Swamp"/>
+        <card number="8" name="Snow-Covered Forest"/>
+        <card number="8" name="Snow-Covered Mountain"/>
+        <card number="8" name="Snow-Covered Swamp"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Horizon Stone"/>
@@ -28,7 +28,7 @@
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Overabundance"/>
         <card number="1" name="Citadel of Pain"/>
-        <card number="1" name="Manabarbs"/>
+        <card number="2" name="Manabarbs"/>
         <card number="1" name="Heartbeat of Spring"/>
         <card number="1" name="Magus of the Vineyard"/>
         <card number="1" name="Wound Reflection"/>
@@ -43,7 +43,6 @@
         <card number="1" name="Ankh of Mishra"/>
         <card number="1" name="Omnath, Locus of Mana"/>
         <card number="1" name="Leyline Tyrant"/>
-        <card number="1" name="Rootweaver Druid"/>
         <card number="1" name="Eidolon of Blossoms"/>
         <card number="1" name="Klothys, God of Destiny"/>
         <card number="1" name="Erebos, God of the Dead"/>
@@ -73,11 +72,14 @@
         <card number="1" name="Wild Ricochet"/>
         <card number="1" name="Deflecting Swat"/>
         <card number="1" name="Kaervek the Merciless"/>
-        <card number="1" name="Kozilek, Butcher of Truth"/>
         <card number="1" name="Terror of the Peaks"/>
         <card number="1" name="Vaevictis Asmadi"/>
-        <card number="1" name="Shivan Dragon"/>
         <card number="1" name="Banefire"/>
-        <card number="1" name="Profane Command"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Acidic Soil"/>
+        <card number="1" name="Urza's Rage"/>
+        <card number="1" name="Vial Smasher the Fierce"/>
+        <card number="1" name="Ricochet Trap"/>
     </zone>
 </cockatrice_deck>
