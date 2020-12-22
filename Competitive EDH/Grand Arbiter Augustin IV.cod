@@ -25,7 +25,6 @@
         <card number="1" name="Mental Misstep"/>
         <card number="1" name="Teferi, Master of Time"/>
         <card number="1" name="Dovin's Veto"/>
-        <card number="1" name="Raff Capashen, Ship's Mage"/>
         <card number="1" name="Ethersworn Canonist"/>
         <card number="1" name="Deafening Silence"/>
         <card number="13" name="Snow-Covered Plains"/>
@@ -44,17 +43,14 @@
         <card number="1" name="Enlightened Tutor"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Personal Tutor"/>
-        <card number="1" name="Expropriate"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Catastrophe"/>
         <card number="1" name="Narset, Parter of Veils"/>
         <card number="1" name="Aura of Silence"/>
         <card number="1" name="Spelltithe Enforcer"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Fierce Guardianship"/>
         <card number="1" name="Linvala, Keeper of Silence"/>
         <card number="1" name="Elesh Norn, Grand Cenobite"/>
-        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
         <card number="1" name="Ancient Den"/>
         <card number="1" name="Seat of the Synod"/>
         <card number="1" name="Veilstone Amulet"/>
@@ -67,17 +63,21 @@
         <card number="1" name="Grafdigger's Cage"/>
         <card number="1" name="Angel's Grace"/>
         <card number="1" name="Trickbind"/>
-        <card number="1" name="Tithe Taker"/>
         <card number="1" name="Torpor Orb"/>
-        <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Teferi, Time Raveler"/>
-        <card number="1" name="Sensei's Divining Top"/>
         <card number="1" name="Force of Will"/>
         <card number="1" name="Mana Drain"/>
         <card number="1" name="Eidolon of Rhetoric"/>
         <card number="1" name="Silence"/>
         <card number="1" name="Extract"/>
         <card number="1" name="Divert"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Careful Study"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Brazen Borrower"/>
+        <card number="1" name="Dream Trawler"/>
+        <card number="1" name="Sphinx of Foresight"/>
     </zone>
 </cockatrice_deck>
