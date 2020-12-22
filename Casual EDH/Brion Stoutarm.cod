@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Brion Stoutarm</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Brion Stoutarm"/>
+        <card number="1" name="Grafted Exoskeleton"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Fallen Ferromancer"/>
+        <card number="1" name="Core Prowler"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Lost Leonin"/>
+        <card number="1" name="Necropede"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Throne of Geth"/>
+        <card number="1" name="Ogre Menial"/>
+        <card number="1" name="Priests of Norn"/>
+        <card number="1" name="Plague Myr"/>
+        <card number="1" name="Razor Swine"/>
+        <card number="1" name="Tine Shrike"/>
+        <card number="1" name="Abuna Acolyte"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Blessing"/>
+        <card number="1" name="Blinkmoth Well"/>
+        <card number="14" name="Mountain"/>
+        <card number="13" name="Plains"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Beloved Princess"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Tin Street Dodger"/>
+        <card number="1" name="Gingerbrute"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="1" name="Goblin Gaveleer"/>
+        <card number="1" name="Dwarven Hold"/>
+        <card number="1" name="Dwarven Ruins"/>
+        <card number="1" name="Icatian Store"/>
+        <card number="1" name="Ruins of Trokair"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Ashnod's Transmogrant"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Akiri, Line-Slinger"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Lapse of Certainty"/>
+        <card number="1" name="Rebuff the Wicked"/>
+        <card number="1" name="Mana Tithe"/>
+        <card number="1" name="Welding Jar"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Dross Scorpion"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Exile"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Glaring Aegis"/>
+        <card number="1" name="Giant Killer"/>
+        <card number="1" name="D'Avenant Trapper"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Crawlspace"/>
+        <card number="1" name="Blinkmoth Urn"/>
+        <card number="1" name="Fragmentize"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Cleansing Wildfire"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Revoke Existence"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Planar Cleansing"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Amrou Kithkin"/>
+    </zone>
+</cockatrice_deck>
