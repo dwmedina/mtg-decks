@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Aminatou, the Fateshifter</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Dimir Cluestone"/>
+        <card number="1" name="Azorius Cluestone"/>
+        <card number="1" name="Orzhov Cluestone"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Restoration Angel"/>
+        <card number="1" name="Dungeon Geists"/>
+        <card number="1" name="Alhammarret, High Arbiter"/>
+        <card number="1" name="Angel of Despair"/>
+        <card number="1" name="Ashen Rider"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Luminate Primordial"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Reflector Mage"/>
+        <card number="1" name="Scholar of the Lost Trove"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Sin Collector"/>
+        <card number="1" name="Sphinx of Uthuun"/>
+        <card number="1" name="Mistmeadow Witch"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Felidar Guardian"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Charming Prince"/>
+        <card number="1" name="Watcher for Tomorrow"/>
+        <card number="1" name="Lavinia of the Tenth"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Flickerwisp"/>
+        <card number="1" name="Sea Gate Oracle"/>
+        <card number="1" name="Oath of Teferi"/>
+        <card number="1" name="Reality Acid"/>
+        <card number="1" name="Oath of Kaya"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Cackling Counterpart"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Telling Time"/>
+        <card number="1" name="Momentary Blink"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Halimar Depths"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="New Benalia"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="11" name="Swamp"/>
+        <card number="11" name="Island"/>
+        <card number="11" name="Plains"/>
+        <card number="1" name="Aminatou, the Fateshifter"/>
+        <card number="1" name="Ashiok, Dream Render"/>
+        <card number="1" name="Approach of the Second Sun"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Preordain"/>
+    </zone>
+</cockatrice_deck>
