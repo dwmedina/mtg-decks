@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nin, the Pain Artist</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Nin, the Pain Artist"/>
+        <card number="15" name="Snow-Covered Mountain"/>
+        <card number="15" name="Snow-Covered Island"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Brash Taunter"/>
+        <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Helm of Awakening"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Chain of Vapor"/>
+        <card number="1" name="Coastal Breach"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Winds of Rebuke"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Anarchy"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Sleep"/>
+        <card number="1" name="Exhaustion"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Jori En, Ruin Diver"/>
+        <card number="1" name="The Royal Scions"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Nix"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Cloud Key"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Venser's Journal"/>
+        <card number="1" name="Spellbook"/>
+        <card number="1" name="From the Ashes"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Kefnet the Mindful"/>
+        <card number="1" name="Amaranthine Wall"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Mogg Maniac"/>
+        <card number="1" name="Kasmina's Transmutation"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="1" name="Tuktuk Rubblefort"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Claim the Firstborn"/>
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Torch Fiend"/>
+        <card number="1" name="Gorilla Shaman"/>
+        <card number="1" name="Lightning Visionary"/>
+        <card number="1" name="Heartfire Immolator"/>
+        <card number="1" name="Jeskai Elder"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Summary Dismissal"/>
+        <card number="1" name="Deliberate"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Galvanic Blast"/>
+        <card number="1" name="Collateral Damage"/>
+        <card number="1" name="Shrapnel Blast"/>
+    </zone>
+</cockatrice_deck>
