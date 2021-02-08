@@ -15,7 +15,7 @@
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="8" name="Snow-Covered Forest"/>
-        <card number="8" name="Snow-Covered Mountain"/>
+        <card number="9" name="Snow-Covered Mountain"/>
         <card number="8" name="Snow-Covered Swamp"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Verdant Catacombs"/>
@@ -28,7 +28,7 @@
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Overabundance"/>
         <card number="1" name="Citadel of Pain"/>
-        <card number="2" name="Manabarbs"/>
+        <card number="1" name="Manabarbs"/>
         <card number="1" name="Heartbeat of Spring"/>
         <card number="1" name="Magus of the Vineyard"/>
         <card number="1" name="Wound Reflection"/>
