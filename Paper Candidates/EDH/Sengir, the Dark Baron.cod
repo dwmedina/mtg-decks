@@ -3,82 +3,69 @@
     <deckname>Sengir, the Dark Baron</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Castle Locthwain"/>
-        <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Phyrexian Tower"/>
-        <card number="24" name="Snow-Covered Swamp"/>
-        <card number="1" name="Gilded Lotus"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Crypt Ghast"/>
-        <card number="1" name="Cabal Ritual"/>
-        <card number="1" name="Sudden Spoiling"/>
-        <card number="1" name="Buried Ruin"/>
-        <card number="1" name="Defile"/>
-        <card number="1" name="Cabal Stronghold"/>
-        <card number="1" name="Grave Pact"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Black Market"/>
-        <card number="1" name="Exquisite Blood"/>
-        <card number="1" name="Sanguine Bond"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Mikaeus, the Unhallowed"/>
-        <card number="1" name="Triskelion"/>
-        <card number="1" name="Arcane Lighthouse"/>
-        <card number="1" name="Shadowspear"/>
-        <card number="1" name="Necropotence"/>
-        <card number="1" name="Vampire Hexmage"/>
+        <card number="37" name="Snow-Covered Swamp"/>
         <card number="1" name="Sengir, the Dark Baron"/>
-        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" name="Cabal Coffers"/>
-        <card number="1" name="Deadly Rollick"/>
-        <card number="1" name="Imp's Mischief"/>
-        <card number="1" name="Skithiryx, the Blight Dragon"/>
-        <card number="1" name="Vraska's Contempt"/>
-        <card number="1" name="Tainted Strike"/>
-        <card number="1" name="Erebos, God of the Dead"/>
-        <card number="1" name="Polluted Bonds"/>
-        <card number="1" name="Snake Cult Initiation"/>
-        <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Walking Ballista"/>
-        <card number="1" name="Mox Opal"/>
-        <card number="1" name="Chrome Mox"/>
-        <card number="1" name="Lotus Petal"/>
-        <card number="1" name="Skyclave Relic"/>
-        <card number="1" name="Vault of Whispers"/>
-        <card number="1" name="Ebon Stronghold"/>
-        <card number="1" name="Grafted Exoskeleton"/>
-        <card number="1" name="Platinum Angel"/>
-        <card number="1" name="Damnation"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Grim Tutor"/>
-        <card number="1" name="No Mercy"/>
-        <card number="1" name="Dark Confidant"/>
-        <card number="1" name="Bloodchief Ascension"/>
-        <card number="1" name="Phyrexian Altar"/>
-        <card number="1" name="Ophiomancer"/>
-        <card number="1" name="Liliana of the Dark Realms"/>
-        <card number="1" name="Exsanguinate"/>
-        <card number="1" name="Tevesh Szat, Doom of Fools"/>
-        <card number="1" name="Westvale Abbey"/>
+        <card number="1" name="Ayara, First of Locthwain"/>
+        <card number="1" name="Bontu the Glorified"/>
         <card number="1" name="Cryptbreaker"/>
-        <card number="1" name="Tormod's Crypt"/>
         <card number="1" name="Piper of the Swarm"/>
-        <card number="1" name="Cemetery Reaper"/>
-        <card number="1" name="Bloodline Keeper"/>
-        <card number="1" name="Bloodsoaked Champion"/>
-        <card number="1" name="Changeling Outcast"/>
-        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Skirsdag High Priest"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Liliana's Devotee"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Nadier's Nightblade"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Demon's Disciple"/>
+        <card number="1" name="Liliana's Standard Bearer"/>
+        <card number="1" name="Silversmote Ghoul"/>
+        <card number="1" name="Crypt Lurker"/>
+        <card number="1" name="Dread Presence"/>
+        <card number="1" name="Clackbridge Troll"/>
+        <card number="1" name="Vilis, Broker of Blood"/>
+        <card number="1" name="Dusk Legion Zealot"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Underworld Connections"/>
+        <card number="1" name="Cling to Dust"/>
+        <card number="1" name="Cemetery Recruitment"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="1" name="Nighthaze"/>
+        <card number="1" name="Wretched Confluence"/>
+        <card number="1" name="Oblivion's Hunger"/>
+        <card number="1" name="Merciless Resolve"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Sanitarium Skeleton"/>
+        <card number="1" name="Bloodghast"/>
+        <card number="1" name="Imp's Mischief"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Titan Hunter"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Indulgent Aristocrat"/>
+        <card number="1" name="Cordial Vampire"/>
+        <card number="1" name="Artificer's Hex"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Font of Agonies"/>
+        <card number="1" name="Gravestorm"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Phyrexian Reclamation"/>
-        <card number="1" name="Serrated Scorpion"/>
-        <card number="1" name="Szat's Will"/>
-        <card number="1" name="Liliana, Waker of the Dead"/>
-        <card number="1" name="Reanimate"/>
-        <card number="1" name="Painful Quandary"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Defile"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Crypt Incursion"/>
+        <card number="1" name="Dead of Winter"/>
         <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Bone Splinters"/>
+        <card number="1" name="Spark Harvest"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Dark Ritual"/>
     </zone>
 </cockatrice_deck>
