@@ -1,82 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Revised Thromok</deckname>
-    <comments>Fourth draft
-
-Added Deep Forest Hermit.
-
-01/12/2020  20:12 EST
-</comments>
+    <deckname>Thromok the Insatiable</deckname>
+    <comments></comments>
     <zone name="main">
         <card number="1" name="Thromok the Insatiable"/>
-        <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Tilonalli's Summoner"/>
-        <card number="1" name="Prowling Serpopard"/>
         <card number="1" name="Messenger's Speed"/>
         <card number="1" name="Rhythm of the Wild"/>
-        <card number="1" name="Soul's Fire"/>
-        <card number="1" name="Artifact Mutation"/>
-        <card number="1" name="Fresh Meat"/>
-        <card number="1" name="Vines of Vastwood"/>
-        <card number="16" name="Mountain"/>
-        <card number="16" name="Forest"/>
+        <card number="15" name="Mountain"/>
+        <card number="15" name="Forest"/>
         <card number="1" name="Khalni Garden"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Kher Keep"/>
-        <card number="1" name="Growth Spasm"/>
-        <card number="1" name="Hull Breach"/>
-        <card number="1" name="Beacon of Creation"/>
-        <card number="1" name="Chandra's Ignition"/>
-        <card number="1" name="Creeping Renaissance"/>
-        <card number="1" name="Fungal Sprouting"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Emerald Medallion"/>
-        <card number="1" name="Ruby Medallion"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Retrofitter Foundry"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Flameshadow Conjuring"/>
-        <card number="1" name="Fervor"/>
         <card number="1" name="Goblin War Drums"/>
-        <card number="1" name="Krenko's Command"/>
-        <card number="1" name="Krenko, Mob Boss"/>
-        <card number="1" name="Rakka Mar"/>
-        <card number="1" name="Battle Hymn"/>
-        <card number="1" name="Grumgully, the Generous"/>
         <card number="1" name="Soul Foundry"/>
         <card number="1" name="Ferocity of the Wilds"/>
-        <card number="1" name="Cryptolith Rite"/>
-        <card number="1" name="Dragonmaster Outcast"/>
-        <card number="1" name="Tendershoot Dryad"/>
-        <card number="1" name="Archetype of Aggression"/>
-        <card number="1" name="Purphoros, God of the Forge"/>
-        <card number="1" name="Parallel Lives"/>
-        <card number="1" name="Impact Tremors"/>
-        <card number="1" name="Second Harvest"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Veil of Summer"/>
-        <card number="1" name="Arachnogenesis"/>
-        <card number="1" name="Nissa, Voice of Zendikar"/>
-        <card number="1" name="Xenagos, the Reveler"/>
-        <card number="1" name="Hordeling Outburst"/>
-        <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Mogg War Marshal"/>
-        <card number="1" name="Legion Warboss"/>
-        <card number="1" name="Dragonlair Spider"/>
-        <card number="1" name="Empty the Warrens"/>
-        <card number="1" name="Thornweald Archer"/>
-        <card number="1" name="Siege-Gang Commander"/>
-        <card number="1" name="Skyline Despot"/>
-        <card number="1" name="Nesting Dragon"/>
-        <card number="1" name="Sprout Swarm"/>
-        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" name="Bloodspore Thrinax"/>
         <card number="1" name="Panharmonicon"/>
         <card number="1" name="Helm of the Host"/>
         <card number="1" name="Conjurer's Closet"/>
-        <card number="1" name="Sylvan Offering"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Ashling's Prerogative"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Vivien, Monsters' Advocate"/>
+        <card number="1" name="Utopia Mycon"/>
+        <card number="1" name="Varchild, Betrayer of Kjeldor"/>
+        <card number="1" name="Psychotrope Thallid"/>
+        <card number="1" name="Thallid"/>
+        <card number="1" name="Thallid Germinator"/>
+        <card number="1" name="Thallid Shell-Dweller"/>
+        <card number="1" name="Tukatongue Thallid"/>
+        <card number="1" name="Vitaspore Thallid"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Stomping Ground"/>
         <card number="1" name="Freyalise, Llanowar's Fury"/>
-        <card number="1" name="Deep Forest Hermit"/>
+        <card number="1" name="Varchild's War-Riders"/>
+        <card number="1" name="Words of Wilding"/>
+        <card number="1" name="Xenagos, God of Revels"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Nissa, Voice of Zendikar"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Garruk, Unleashed"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Hornet Nest"/>
+        <card number="1" name="Quartzwood Crasher"/>
+        <card number="1" name="Llanowar Mentor"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Sprout Swarm"/>
+        <card number="1" name="Myr Propagator"/>
+        <card number="1" name="Mishra's Self-Replicator"/>
+        <card number="1" name="Spawnwrithe"/>
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Sarpadian Empires, Vol. VII"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Noxious Revival"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Wilt"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Valakut Awakening"/>
+        <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Fatal Frenzy"/>
     </zone>
 </cockatrice_deck>
