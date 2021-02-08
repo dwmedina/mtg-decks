@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Casual Mishra</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Armix, Filigree Thrasher"/>
+        <card number="1" name="Assembly-Worker"/>
+        <card number="1" name="Augmenting Automaton"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Birthing Boughs"/>
+        <card number="1" name="Bladegriff Prototype"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Chief of the Foundry"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Corridor Monitor"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Disperse"/>
+        <card number="1" name="Earthquake"/>
+        <card number="1" name="Eat to Extinction"/>
+        <card number="1" name="Echoing Truth"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fiery Confluence"/>
+        <card number="1" name="Force of Despair"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Foundry Assembler"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Fumble"/>
+        <card number="1" name="Glaring Spotlight"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Great Furnace"/>
+        <card number="1" name="Hour of Devastation"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="11" name="Island"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Junk Diver"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Master of Etherium"/>
+        <card number="1" name="Mechanized Production"/>
+        <card number="1" name="Merchant's Dockhand"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Mishra, Artificer Prodigy"/>
+        <card number="1" name="Mishra's Bauble"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Mishra's Self-Replicator"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Obeka, Brute Chronologist"/>
+        <card number="1" name="Oblivion Stone"/>
+        <card number="1" name="Phyrexian Scriptures"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Saheeli, the Gifted"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Sparring Construct"/>
+        <card number="1" name="Steel Overseer"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="The Antiquities War"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="1" name="Vraska's Contempt"/>
+        <card number="1" name="Whipflare"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Witching Well"/>
+        <card number="1" name="Storm the Vault"/>
+    </zone>
+</cockatrice_deck>
