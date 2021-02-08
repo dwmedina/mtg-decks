@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Arahbo, Roar of the World</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arahbo, Roar of the World"/>
+        <card number="1" name="Feline Sovereign"/>
+        <card number="1" name="Pridemalkin"/>
+        <card number="1" name="Ajani's Pridemate"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Brimaz, King of Oreskos"/>
+        <card number="1" name="Jedit Ojanen of Efrava"/>
+        <card number="1" name="Alms Collector"/>
+        <card number="1" name="Leonin Shikari"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Pride Sovereign"/>
+        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="King of the Pride"/>
+        <card number="1" name="Loam Lion"/>
+        <card number="1" name="Bronzehide Lion"/>
+        <card number="1" name="Ajani's Chosen"/>
+        <card number="1" name="Ajani's Mantra"/>
+        <card number="1" name="Ajani's Welcome"/>
+        <card number="1" name="Leonin Elder"/>
+        <card number="1" name="Leonin Vanguard"/>
+        <card number="1" name="Savannah Lions"/>
+        <card number="1" name="Enlightened Ascetic"/>
+        <card number="1" name="Nacatl Savage"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Charmed Stray"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="14" name="Plains"/>
+        <card number="14" name="Forest"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Ajani, the Greathearted"/>
+        <card number="1" name="Ajani, Strength of the Pride"/>
+        <card number="1" name="Angel's Grace"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Aura Shards"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Magebane Armor"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Mace of the Valiant"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Leyline of Vitality"/>
+        <card number="1" name="Leyline of Sanctity"/>
+        <card number="1" name="Day of Judgment"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Back to Nature"/>
+        <card number="1" name="Heliod's Intervention"/>
+        <card number="1" name="Pledge of Unity"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="White Sun's Zenith"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kaheera, the Orphanguard"/>
+    </zone>
+</cockatrice_deck>
