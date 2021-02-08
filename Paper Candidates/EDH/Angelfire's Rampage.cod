@@ -3,79 +3,79 @@
     <deckname>Angelfire's Rampage</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Gabriel Angelfire"/>
-        <card number="9" name="Plains"/>
-        <card number="19" name="Forest"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Nemesis Mask"/>
-        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Angelic Ascension"/>
+        <card number="1" name="Argothian Enchantress"/>
+        <card number="1" name="Aura Shards"/>
+        <card number="1" name="Auramancer"/>
+        <card number="1" name="Baneslayer Angel"/>
+        <card number="1" name="Barrier Breach"/>
+        <card number="1" name="Basri's Solidarity"/>
+        <card number="1" name="Beastmaster's Magemark"/>
+        <card number="1" name="Benevolent Offering"/>
+        <card number="1" name="Calix, Destiny's Hand"/>
         <card number="1" name="Castle Garenbrig"/>
-        <card number="1" name="Temple Garden"/>
-        <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Forbidden Orchard"/>
-        <card number="1" name="Selesnya Guildgate"/>
-        <card number="1" name="Wooded Bastion"/>
-        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cultivate"/>
         <card number="1" name="Declare Dominance"/>
-        <card number="1" name="Lure"/>
-        <card number="1" name="Noble Quarry"/>
-        <card number="1" name="Seton's Desire"/>
-        <card number="1" name="Roar of Challenge"/>
-        <card number="1" name="Darksteel Ingot"/>
-        <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Talisman of Unity"/>
-        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Eladamri's Call"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="Elvish Berserker"/>
+        <card number="1" name="Feat of Resistance"/>
+        <card number="1" name="Feral Hydra"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Flicker of Fate"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="19" name="Forest"/>
+        <card number="1" name="Gabriel Angelfire"/>
+        <card number="1" name="Garruk's Harbinger"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Gift of Paradise"/>
+        <card number="1" name="Gird for Battle"/>
+        <card number="1" name="Glorious Anthem"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Hunter's Edge"/>
+        <card number="1" name="Invigorating Surge"/>
+        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
         <card number="1" name="Karametra, God of Harvests"/>
         <card number="1" name="Karametra's Blessing"/>
         <card number="1" name="Karametra's Favor"/>
-        <card number="1" name="Abundant Growth"/>
-        <card number="1" name="Fertile Ground"/>
-        <card number="1" name="Urban Utopia"/>
-        <card number="1" name="Garruk's Uprising"/>
-        <card number="1" name="Regrowth"/>
-        <card number="1" name="Eladamri's Call"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
-        <card number="1" name="Basri's Solidarity"/>
         <card number="1" name="Karn's Bastion"/>
-        <card number="1" name="Elder Gargaroth"/>
-        <card number="1" name="Baneslayer Angel"/>
-        <card number="1" name="Feat of Resistance"/>
-        <card number="1" name="Gods Willing"/>
-        <card number="1" name="Ranger's Guile"/>
-        <card number="1" name="Garruk's Harbinger"/>
-        <card number="1" name="Primal Might"/>
-        <card number="1" name="Selfless Savior"/>
-        <card number="1" name="Scavenging Ooze"/>
-        <card number="1" name="Return to Nature"/>
-        <card number="1" name="Track Down"/>
-        <card number="1" name="Pollenbright Druid"/>
-        <card number="1" name="Glorious Anthem"/>
-        <card number="1" name="Invigorating Surge"/>
+        <card number="1" name="Lure"/>
         <card number="1" name="Makeshift Battalion"/>
-        <card number="1" name="Pridemalkin"/>
-        <card number="1" name="Benevolent Offering"/>
-        <card number="1" name="Beastmaster's Magemark"/>
-        <card number="1" name="Elvish Berserker"/>
-        <card number="1" name="Warded Battlements"/>
-        <card number="1" name="Hunter's Edge"/>
-        <card number="1" name="Feral Hydra"/>
-        <card number="1" name="Gird for Battle"/>
-        <card number="1" name="Irresistible Prey"/>
-        <card number="1" name="Return of the Wildspeaker"/>
-        <card number="1" name="Tormod's Crypt"/>
-        <card number="1" name="Rest in Peace"/>
-        <card number="1" name="Satyr Enchanter"/>
-        <card number="1" name="Setessan Champion"/>
-        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
-        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Nature's Will"/>
+        <card number="1" name="Nemesis Mask"/>
+        <card number="1" name="Noble Quarry"/>
+        <card number="1" name="Omen of the Hunt"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Angelic Ascension"/>
-        <card number="1" name="Barrier Breach"/>
-        <card number="1" name="Flicker of Fate"/>
-        <card number="1" name="Revoke Existence"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Pollenbright Druid"/>
+        <card number="1" name="Pridemalkin"/>
+        <card number="1" name="Primal Might"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Edge of Autumn"/>
-        <card number="1" name="Cultivate"/>
+        <card number="1" name="Ranger's Guile"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Revoke Existence"/>
+        <card number="1" name="Roar of Challenge"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Seton's Desire"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Track Down"/>
+        <card number="1" name="Warded Battlements"/>
+        <card number="1" name="Weirding Wood"/>
+        <card number="1" name="Wooded Bastion"/>
     </zone>
 </cockatrice_deck>
