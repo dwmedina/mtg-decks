@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Yennett, Cryptic Sovereign</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Boreal Shelf"/>
+        <card number="1" name="Frost Marsh"/>
+        <card number="9" name="Snow-Covered Island"/>
+        <card number="9" name="Snow-Covered Plains"/>
+        <card number="9" name="Snow-Covered Swamp"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Yennett, Cryptic Sovereign"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Serra Ascendant"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Heliod, Sun-Crowned"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Deathbringer Liege"/>
+        <card number="1" name="Athreos, God of Passage"/>
+        <card number="1" name="Lurrus of the Dream-Den"/>
+        <card number="1" name="Nightveil Specter"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Ghastlord of Fugue"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Daxos of Meletis"/>
+        <card number="1" name="Silent-Blade Oni"/>
+        <card number="1" name="Throatseeker"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Ukkima, Stalking Shadow"/>
+        <card number="1" name="Tymna the Weaver"/>
+        <card number="1" name="Magister Sphinx"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Aminatou, the Fateshifter"/>
+        <card number="1" name="Bloodchief Ascension"/>
+        <card number="1" name="Polluted Bonds"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Steel of the Godhead"/>
+        <card number="1" name="Angelic Chorus"/>
+        <card number="1" name="Ajani's Welcome"/>
+        <card number="1" name="Birthing Boughs"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Venomous Changeling"/>
+        <card number="1" name="Orim's Prayer"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Oath of Kaya"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Angel's Grace"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Sudden Spoiling"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Vona's Hunger"/>
+        <card number="1" name="Unmake"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Righteous Confluence"/>
+        <card number="1" name="Vicious Rumors"/>
+        <card number="1" name="Peach Garden Oath"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="March of Souls"/>
+        <card number="1" name="Paraselene"/>
+        <card number="1" name="Foreboding Fruit"/>
+        <card number="1" name="Solemn Offering"/>
+        <card number="1" name="Taste of Blood"/>
+        <card number="1" name="Shadowspear"/>
+    </zone>
+</cockatrice_deck>
